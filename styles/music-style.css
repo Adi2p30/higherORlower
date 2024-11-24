@@ -1,11 +1,9 @@
-/* Reset styles and box-sizing */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Body styling for a fullscreen centered layout */
 body {
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #191414, #1db954);
@@ -16,7 +14,6 @@ body {
   overflow: hidden;
 }
 
-/* Main game container with a transparent background */
 #game-container {
   display: flex;
   justify-content: space-between;
@@ -24,15 +21,15 @@ body {
   width: 100%;
   height: 100%;
   position: relative;
-  background: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.9);
   border-radius: 10px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   transition: transform 1s ease-in-out;
 }
 
-/* Styling for each artist side */
 .artist-side {
   display: flex;
+  overflow: hidden;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -41,21 +38,23 @@ body {
   padding: 20px;
   text-align: center;
   transition: background 0.3s ease, transform 0.6s ease-in-out;
-  /* position: relative;
-  background-size: cover;
+  position: relative;
+
+  /* background-size: cover;
   background-position: center;
   backdrop-filter: blur(10px); */
 }
 
 .artist-side::before {
-  background-color: rgba(0, 0, 0, 0.732);
   content: "";
   position: absolute;
-  inset: 0%;
+  inset: 1%;
+  background-size: cover;
+  background-position: center;
   z-index: -1;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
-/* Left artist background gradient */
 .artist-side.left {
   background: linear-gradient(
     135deg,
@@ -64,7 +63,6 @@ body {
   );
 }
 
-/* Right artist background gradient */
 .artist-side.right {
   background: linear-gradient(
     135deg,
@@ -73,7 +71,6 @@ body {
   );
 }
 
-/* Artist name styling */
 .artist-side h2 {
   font-size: 2.5rem;
   color: white;
@@ -81,7 +78,6 @@ body {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 
-/* Listener count styling */
 .artist-side p {
   font-size: 1.8rem;
   color: white;
@@ -89,7 +85,6 @@ body {
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
 }
 
-/* Result message styling */
 #result-message {
   position: absolute;
   top: 12%;
@@ -101,7 +96,6 @@ body {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 
-/* Score display styling */
 #score {
   position: absolute;
   top: 20%;
@@ -112,7 +106,6 @@ body {
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
-/* Buttons container positioning */
 #buttons {
   position: absolute;
   bottom: 30px;
@@ -120,7 +113,6 @@ body {
   text-align: center;
 }
 
-/* Button shared styles */
 #higher-btn,
 #lower-btn {
   font-size: 1.4rem;
@@ -135,7 +127,6 @@ body {
   transition: background-color 0.3s ease, transform 0.3s ease, opacity 0.3s ease;
 }
 
-/* Button hover effects */
 #higher-btn:hover,
 #lower-btn:hover {
   background-color: rgba(255, 255, 255, 0.5);
@@ -143,7 +134,6 @@ body {
   opacity: 1;
 }
 
-/* Back button styling */
 .back-button {
   position: absolute;
   top: 20px;
@@ -159,13 +149,11 @@ body {
   z-index: 2;
 }
 
-/* Back button hover effects */
 .back-button:hover {
   background-color: rgba(255, 255, 255, 0.8);
   color: #000;
 }
 
-/* Add styles for shifting right side only */
 .right-shifted .right {
   transform: translateX(-100%);
 }

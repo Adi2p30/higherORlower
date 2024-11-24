@@ -1,14 +1,12 @@
-/* Reset styles and box-sizing */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Body styling for a fullscreen centered layout */
 body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #1a1a1a, #333333);
+  background: linear-gradient(135deg, #0f0f0f, #ff6f61);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,7 +14,6 @@ body {
   overflow: hidden;
 }
 
-/* Main game container with transparent background */
 #game-container {
   display: flex;
   justify-content: space-between;
@@ -24,14 +21,15 @@ body {
   width: 100%;
   height: 100%;
   position: relative;
-  background: rgba(0, 0, 0, 0.784);
+  background-color: rgba(0, 0, 0, 0.9);
   border-radius: 10px;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  transition: transform 1s ease-in-out;
 }
 
-/* Styling for each company side */
 .company-side {
   display: flex;
+  overflow: hidden;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -39,42 +37,50 @@ body {
   height: 100%;
   padding: 20px;
   text-align: center;
-  transition: background 0.3s ease;
+  transition: background 0.3s ease, transform 0.6s ease-in-out;
+  position: relative;
 }
 
-/* Left company background gradient */
+.company-side::before {
+  content: "";
+  position: absolute;
+  inset: 1%;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
 .company-side.left {
   background: linear-gradient(
     135deg,
-    rgba(72, 72, 255, 0.8),
-    rgba(72, 72, 255, 0.4)
+    rgba(0, 255, 150, 0.8),
+    rgba(0, 255, 150, 0.4)
   );
 }
 
-/* Right company background gradient */
 .company-side.right {
   background: linear-gradient(
     135deg,
-    rgba(255, 50, 50, 0.8),
-    rgba(255, 50, 50, 0.4)
+    rgba(255, 100, 0, 0.8),
+    rgba(255, 100, 0, 0.4)
   );
 }
 
-/* Company name styling */
 .company-side h2 {
   font-size: 2.5rem;
   color: white;
   margin-bottom: 10px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 
-/* Company valuation styling */
 .company-side p {
   font-size: 1.8rem;
   color: white;
   font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
 }
 
-/* Result message styling */
 #result-message {
   position: absolute;
   top: 12%;
@@ -86,7 +92,6 @@ body {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 
-/* Score display styling */
 #score {
   position: absolute;
   top: 20%;
@@ -97,7 +102,6 @@ body {
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
-/* Buttons container positioning */
 #buttons {
   position: absolute;
   bottom: 30px;
@@ -105,14 +109,13 @@ body {
   text-align: center;
 }
 
-/* Button shared styles */
 #higher-btn,
 #lower-btn {
   font-size: 1.4rem;
   padding: 15px 30px;
   margin: 0 20px;
-  background-color: rgba(255, 255, 255, 0.3);
-  color: white;
+  background-color: rgba(75, 75, 75, 0.8);
+  color: rgb(255, 255, 255);
   border: 2px solid rgba(255, 255, 255, 0.5);
   border-radius: 30px;
   cursor: pointer;
@@ -120,15 +123,13 @@ body {
   transition: background-color 0.3s ease, transform 0.3s ease, opacity 0.3s ease;
 }
 
-/* Button hover effects */
 #higher-btn:hover,
 #lower-btn:hover {
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.5);
   transform: scale(1.05);
   opacity: 1;
 }
 
-/* Back button styling */
 .back-button {
   position: absolute;
   top: 20px;
@@ -144,8 +145,11 @@ body {
   z-index: 2;
 }
 
-/* Back button hover effects */
 .back-button:hover {
   background-color: rgba(255, 255, 255, 0.8);
   color: #000;
+}
+
+.right-shifted .right {
+  transform: translateX(-100%);
 }

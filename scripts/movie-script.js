@@ -1,4 +1,8 @@
+import { getImage } from "./getImageBackground.js";
+
 document.addEventListener("DOMContentLoaded", () => {
+  const movie1 = document.getElementById("movie1");
+  const movie2 = document.getElementById("movie2");
   const movie1Title = document.getElementById("movie1-title");
   const movie1Revenue = document.getElementById("movie1-revenue");
   const movie2Title = document.getElementById("movie2-title");
@@ -13,14 +17,12 @@ document.addEventListener("DOMContentLoaded", () => {
   let currentMovie2 = null;
   let score = 0;
 
-  // Fetch JSON data
-  fetch("premadeCategories/Top_1000_Movies_HigherOrLower.json")
+  fetch("premadeCategories/movie-box-office.json")
     .then((response) => response.json())
     .then((data) => {
       movies = data.map((movie) => ({
         title: movie.Title,
-        revenue: parseInt(movie["Lifetime Gross"].replace(/\$|,/g, ""), 10),
-        year: movie.Year,
+        revenue: parseInt(movie["Lifetime Gross"].replace(/[\$,]/g, ""), 10),
       }));
 
       if (movies.length > 0) {
@@ -30,23 +32,57 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     })
     .catch((error) => {
-      console.error("Error fetching or parsing the JSON file:", error);
+      console.error("Error fetching movie data:", error);
       resultMessage.textContent = "Error loading game data. Please try again.";
     });
+
+  async function setBackgroundImages() {
+    try {
+      const movie1Image = await getImage(currentMovie1.title);
+      const movie2Image = await getImage(currentMovie2.title);
+
+      movie1.style.setProperty(
+        "--bg-image",
+        movie1Image ? `url(${movie1Image})` : "none"
+      );
+      movie2.style.setProperty(
+        "--bg-image",
+        movie2Image ? `url(${movie2Image})` : "none"
+      );
+
+      movie1.style.setProperty(
+        "background-image",
+        movie1Image ? `url(${movie1Image})` : "none"
+      );
+      movie2.style.setProperty(
+        "background-image",
+        movie2Image ? `url(${movie2Image})` : "none"
+      );
+    } catch (error) {
+      console.error("Error setting background images:", error);
+    }
+  }
 
   function initializeGame() {
     score = 0;
     updateScore();
-    currentMovie1 = getRandomMovie();
-    currentMovie2 = getRandomMovie();
+    selectRandomMovies();
     updateMovies();
   }
 
-  function getRandomMovie() {
-    return movies[Math.floor(Math.random() * movies.length)];
+  function selectRandomMovies() {
+    const randomIndex1 = Math.floor(Math.random() * movies.length);
+    let randomIndex2;
+    do {
+      randomIndex2 = Math.floor(Math.random() * movies.length);
+    } while (randomIndex2 === randomIndex1);
+
+    currentMovie1 = movies[randomIndex1];
+    currentMovie2 = movies[randomIndex2];
   }
 
-  function updateMovies() {
+  async function updateMovies() {
+    await setBackgroundImages();
     movie1Title.textContent = currentMovie1.title;
     movie1Revenue.textContent = `$${currentMovie1.revenue.toLocaleString()}`;
     movie2Title.textContent = currentMovie2.title;
@@ -67,9 +103,20 @@ document.addEventListener("DOMContentLoaded", () => {
       score++;
       resultMessage.textContent = "Correct!";
       currentMovie1 = currentMovie2;
-      currentMovie2 = getRandomMovie();
+
+      let newMovieIndex;
+      do {
+        newMovieIndex = Math.floor(Math.random() * movies.length);
+      } while (movies[newMovieIndex] === currentMovie1);
+
+      currentMovie2 = movies[newMovieIndex];
+
       updateScore();
-      animateCorrectGuess();
+      setTimeout(() => {
+        updateMovies();
+      }, 100);
+
+      shiftRightSide();
     } else {
       resultMessage.textContent = "You got it wrong! Game Over!";
       score = 0;
@@ -77,25 +124,13 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  function animateCorrectGuess() {
-    const movie1Element = document.getElementById("movie1");
-    const movie2Element = document.getElementById("movie2");
+  function shiftRightSide() {
+    const gameContainer = document.getElementById("game-container");
+    gameContainer.classList.add("right-shifted");
 
-    movie2Element.style.transition = "transform 0.4s ease, opacity 0.4s ease";
-    // movie1Element.style.transition = "opacity 0.4s ease";
-
-    // Slide movie2 to the left
-    movie2Element.style.transform = "translateX(-300px)";
-    movie2Element.style.opacity = "0";
     setTimeout(() => {
-      updateMovies();
-      // movie1Element.style.opacity = "0";
-      movie2Element.style.transform = "translateX(0)";
-      movie2Element.style.opacity = "1";
-      setTimeout(() => {
-        movie1Element.style.opacity = "1";
-      }, 400);
-    }, 400);
+      gameContainer.classList.remove("right-shifted");
+    }, 700);
   }
 
   higherBtn.addEventListener("click", () => handleGuess(true));

@@ -1,3 +1,5 @@
+import { getImage } from "./getImageBackground.js";
+
 document.addEventListener("DOMContentLoaded", () => {
   const company1Title = document.getElementById("company1-name");
   const company1Valuation = document.getElementById("company1-valuation");
@@ -13,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let currentCompany2 = null;
   let score = 0;
 
-  // Fetch JSON data
+  // Fetch company data
   fetch("premadeCategories/net-company.json")
     .then((response) => response.json())
     .then((data) => {
@@ -33,27 +35,53 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     })
     .catch((error) => {
-      console.error("Error fetching or parsing the JSON file:", error);
+      console.error("Error fetching company data:", error);
       resultMessage.textContent = "Error loading game data. Please try again.";
     });
+
+  // Function to set background images for the companies
+  async function setBackgroundImages() {
+    try {
+      const company1Image = await getImage(currentCompany1.name);
+      const company2Image = await getImage(currentCompany2.name);
+
+      document.getElementById("company1").style.backgroundImage = company1Image
+        ? `url(${company1Image})`
+        : "none";
+      document.getElementById("company2").style.backgroundImage = company2Image
+        ? `url(${company2Image})`
+        : "none";
+    } catch (error) {
+      console.error("Error setting background images:", error);
+    }
+  }
 
   function initializeGame() {
     score = 0;
     updateScore();
-    currentCompany1 = getRandomCompany();
-    currentCompany2 = getRandomCompany();
+    selectRandomCompanies();
     updateCompanies();
   }
 
-  function getRandomCompany() {
-    return companies[Math.floor(Math.random() * companies.length)];
+  function selectRandomCompanies() {
+    const randomIndex1 = Math.floor(Math.random() * companies.length);
+    let randomIndex2;
+    do {
+      randomIndex2 = Math.floor(Math.random() * companies.length);
+    } while (randomIndex2 === randomIndex1);
+
+    currentCompany1 = companies[randomIndex1];
+    currentCompany2 = companies[randomIndex2];
   }
 
-  function updateCompanies() {
+  async function updateCompanies() {
+    await setBackgroundImages();
     company1Title.textContent = currentCompany1.name;
     company1Valuation.textContent = `$${currentCompany1.valuation.toLocaleString()}M`;
+
     company2Title.textContent = currentCompany2.name;
-    company2Valuation.textContent = "?";
+    company2Valuation.textContent = "?"; // Hide valuation for company 2 initially
+
     resultMessage.textContent = "";
   }
 
@@ -66,13 +94,27 @@ document.addEventListener("DOMContentLoaded", () => {
       ? currentCompany2.valuation > currentCompany1.valuation
       : currentCompany2.valuation <= currentCompany1.valuation;
 
+    // Reveal valuation for Company 2 after the guess
+    company2Valuation.textContent = `$${currentCompany2.valuation.toLocaleString()}M`;
+
     if (correct) {
       score++;
       resultMessage.textContent = "Correct!";
       currentCompany1 = currentCompany2;
-      currentCompany2 = getRandomCompany();
+
+      let newCompanyIndex;
+      do {
+        newCompanyIndex = Math.floor(Math.random() * companies.length);
+      } while (companies[newCompanyIndex] === currentCompany1);
+
+      currentCompany2 = companies[newCompanyIndex];
+
       updateScore();
-      animateCorrectGuess();
+      setTimeout(() => {
+        updateCompanies();
+      }, 100);
+
+      shiftRightSide();
     } else {
       resultMessage.textContent = "You got it wrong! Game Over!";
       score = 0;
@@ -80,20 +122,13 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  function animateCorrectGuess() {
-    const company1Element = document.getElementById("company1");
-    const company2Element = document.getElementById("company2");
+  function shiftRightSide() {
+    const gameContainer = document.getElementById("game-container");
+    gameContainer.classList.add("right-shifted");
 
-    company2Element.style.transition = "transform 0.4s ease, opacity 0.4s ease";
-
-    // Slide company2 to the left
-    company2Element.style.transform = "translateX(-300px)";
-    company2Element.style.opacity = "0";
     setTimeout(() => {
-      updateCompanies();
-      company2Element.style.transform = "translateX(0)";
-      company2Element.style.opacity = "1";
-    }, 400);
+      gameContainer.classList.remove("right-shifted");
+    }, 700);
   }
 
   higherBtn.addEventListener("click", () => handleGuess(true));

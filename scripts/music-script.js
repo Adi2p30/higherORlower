@@ -17,7 +17,6 @@ document.addEventListener("DOMContentLoaded", () => {
   let currentSong2 = null;
   let score = 0;
 
-  // Fetch song data
   fetch("premadeCategories/music.json")
     .then((response) => response.json())
     .then((data) => {
@@ -42,7 +41,6 @@ document.addEventListener("DOMContentLoaded", () => {
       const song1Image = await getImage(currentSong1.title);
       const song2Image = await getImage(currentSong2.title);
 
-      // Apply the blurred background images to the pseudo-elements
       artist1.style.setProperty(
         "--bg-image",
         song1Image ? `url(${song1Image})` : "none"
@@ -52,7 +50,6 @@ document.addEventListener("DOMContentLoaded", () => {
         song2Image ? `url(${song2Image})` : "none"
       );
 
-      // Dynamically update the ::before background image
       artist1.style.setProperty(
         "background-image",
         song1Image ? `url(${song1Image})` : "none"
@@ -85,13 +82,12 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   async function updateSongs() {
+    await setBackgroundImages();
     song1Name.textContent = currentSong1.title;
     song1Listeners.textContent = `${currentSong1.streams.toLocaleString()} streams`;
     song2Name.textContent = currentSong2.title;
     song2Listeners.textContent = "?";
     resultMessage.textContent = "";
-
-    await setBackgroundImages();
   }
 
   function updateScore() {
@@ -108,7 +104,6 @@ document.addEventListener("DOMContentLoaded", () => {
       resultMessage.textContent = "Correct!";
       currentSong1 = currentSong2;
 
-      // Fetch a new song for currentSong2
       let newSongIndex;
       do {
         newSongIndex = Math.floor(Math.random() * songs.length);
@@ -119,9 +114,8 @@ document.addEventListener("DOMContentLoaded", () => {
       updateScore();
       setTimeout(() => {
         updateSongs();
-      }, 600);
+      }, 100);
 
-      // Trigger the right-side shift animation
       shiftRightSide();
     } else {
       resultMessage.textContent = "You got it wrong! Game Over!";
@@ -130,17 +124,13 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  // Function to shift the right side to the left and then back
   function shiftRightSide() {
     const gameContainer = document.getElementById("game-container");
-
-    // Add the class to trigger the shift
     gameContainer.classList.add("right-shifted");
 
-    // After the transition ends (1s delay), reset the position of the right side
     setTimeout(() => {
       gameContainer.classList.remove("right-shifted");
-    }, 600); // 1s delay to match the transition duration
+    }, 700);
   }
 
   higherBtn.addEventListener("click", () => handleGuess(true));
