@@ -3,22 +3,22 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Higher or Lower: Spotify</title>
-    <link rel="stylesheet" href="styles/music-style.css" />
+    <title>Higher or Lower: Net Valuation</title>
+    <link rel="stylesheet" href="styles/net-company-style.css" />
   </head>
   <body>
     <div id="game-container">
       <a href="#" onclick="history.back()" class="back-button">Back</a>
-      <div id="artist1" class="artist-side left">
+      <div id="company1" class="company-side left">
         <div class="bg-blur"></div>
-        <h2 id="song1-name"></h2>
-        <p id="song1-listeners"></p>
+        <h2 id="company1-name"></h2>
+        <p id="company1-valuation"></p>
       </div>
 
-      <div id="artist2" class="artist-side right">
+      <div id="company2" class="company-side right">
         <div class="bg-blur"></div>
-        <h2 id="song2-name"></h2>
-        <p id="song2-listeners"></p>
+        <h2 id="company2-name"></h2>
+        <p id="company2-valuation"></p>
       </div>
 
       <div id="result-message"></div>
@@ -28,6 +28,6 @@
         <button id="lower-btn">Lower</button>
       </div>
     </div>
-    <script type="module" src="scripts/music-script.js"></script>
+    <script src="scripts/net-company-script.js"></script>
   </body>
 </html>

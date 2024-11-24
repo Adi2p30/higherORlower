@@ -1,0 +1,2502 @@
+[
+  {
+    "Rank": 1,
+    "Company": "Walmart",
+    "Valuation (in millions)": "$484,853"
+  },
+  {
+    "Rank": 2,
+    "Company": "Amazon",
+    "Valuation (in millions)": "$1,873,676"
+  },
+  {
+    "Rank": 3,
+    "Company": "Apple",
+    "Valuation (in millions)": "$2,647,974"
+  },
+  {
+    "Rank": 4,
+    "Company": "UnitedHealth Group",
+    "Valuation (in millions)": "$456,081"
+  },
+  {
+    "Rank": 5,
+    "Company": "Berkshire Hathaway",
+    "Valuation (in millions)": "$908,920"
+  },
+  {
+    "Rank": 6,
+    "Company": "CVS Health",
+    "Valuation (in millions)": "$100,374"
+  },
+  {
+    "Rank": 7,
+    "Company": "Exxon Mobil",
+    "Valuation (in millions)": "$461,222"
+  },
+  {
+    "Rank": 8,
+    "Company": "Alphabet",
+    "Valuation (in millions)": "$1,884,633"
+  },
+  {
+    "Rank": 9,
+    "Company": "McKesson",
+    "Valuation (in millions)": "$70,547"
+  },
+  {
+    "Rank": 10,
+    "Company": "Cencora",
+    "Valuation (in millions)": "$48,472"
+  },
+  {
+    "Rank": 11,
+    "Company": "Costco",
+    "Valuation (in millions)": "$324,924"
+  },
+  {
+    "Rank": 12,
+    "Company": "JPMorgan Chase",
+    "Valuation (in millions)": "$576,938"
+  },
+  {
+    "Rank": 13,
+    "Company": "Microsoft",
+    "Valuation (in millions)": "$3,126,133"
+  },
+  {
+    "Rank": 14,
+    "Company": "Cardinal Health",
+    "Valuation (in millions)": "$27,218"
+  },
+  {
+    "Rank": 15,
+    "Company": "Chevron",
+    "Valuation (in millions)": "$292,966"
+  },
+  {
+    "Rank": 16,
+    "Company": "Cigna Group",
+    "Valuation (in millions)": "$103,018"
+  },
+  {
+    "Rank": 17,
+    "Company": "Ford Motor",
+    "Valuation (in millions)": "$53,018"
+  },
+  {
+    "Rank": 18,
+    "Company": "Bank of America",
+    "Valuation (in millions)": "$299,213"
+  },
+  {
+    "Rank": 19,
+    "Company": "General Motors",
+    "Valuation (in millions)": "$52,354"
+  },
+  {
+    "Rank": 20,
+    "Company": "Elevance Health",
+    "Valuation (in millions)": "$120,620"
+  },
+  {
+    "Rank": 21,
+    "Company": "Citigroup",
+    "Valuation (in millions)": "$121,122"
+  },
+  {
+    "Rank": 22,
+    "Company": "Centene",
+    "Valuation (in millions)": "$41,979"
+  },
+  {
+    "Rank": 23,
+    "Company": "Home Depot",
+    "Valuation (in millions)": "$380,154"
+  },
+  {
+    "Rank": 24,
+    "Company": "Marathon Petroleum",
+    "Valuation (in millions)": "$72,608"
+  },
+  {
+    "Rank": 25,
+    "Company": "Kroger",
+    "Valuation (in millions)": "$41,101"
+  },
+  {
+    "Rank": 26,
+    "Company": "Phillips 66",
+    "Valuation (in millions)": "$69,881"
+  },
+  {
+    "Rank": 27,
+    "Company": "Fannie Mae",
+    "Valuation (in millions)": "$1,818"
+  },
+  {
+    "Rank": 28,
+    "Company": "Walgreens Boots Alliance",
+    "Valuation (in millions)": "$18,712"
+  },
+  {
+    "Rank": 29,
+    "Company": "Valero Energy",
+    "Valuation (in millions)": "$56,235"
+  },
+  {
+    "Rank": 30,
+    "Company": "Meta Platforms",
+    "Valuation (in millions)": "$1,237,940"
+  },
+  {
+    "Rank": 31,
+    "Company": "Verizon Communications",
+    "Valuation (in millions)": "$176,652"
+  },
+  {
+    "Rank": 32,
+    "Company": "AT&T",
+    "Valuation (in millions)": "$125,889"
+  },
+  {
+    "Rank": 33,
+    "Company": "Comcast",
+    "Valuation (in millions)": "$172,180"
+  },
+  {
+    "Rank": 34,
+    "Company": "Wells Fargo",
+    "Valuation (in millions)": "$205,202"
+  },
+  {
+    "Rank": 35,
+    "Company": "Goldman Sachs Group",
+    "Valuation (in millions)": "$135,552"
+  },
+  {
+    "Rank": 36,
+    "Company": "Freddie Mac",
+    "Valuation (in millions)": "$878"
+  },
+  {
+    "Rank": 37,
+    "Company": "Target",
+    "Valuation (in millions)": "$81,816"
+  },
+  {
+    "Rank": 38,
+    "Company": "Humana",
+    "Valuation (in millions)": "$41,797"
+  },
+  {
+    "Rank": 39,
+    "Company": "State Farm Insurance",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 40,
+    "Company": "Tesla",
+    "Valuation (in millions)": "$559,854"
+  },
+  {
+    "Rank": 41,
+    "Company": "Morgan Stanley",
+    "Valuation (in millions)": "$153,977"
+  },
+  {
+    "Rank": 42,
+    "Company": "Johnson & Johnson",
+    "Valuation (in millions)": "$381,204"
+  },
+  {
+    "Rank": 43,
+    "Company": "Archer Daniels Midland",
+    "Valuation (in millions)": "$32,024"
+  },
+  {
+    "Rank": 44,
+    "Company": "PepsiCo",
+    "Valuation (in millions)": "$240,553"
+  },
+  {
+    "Rank": 45,
+    "Company": "United Parcel Service",
+    "Valuation (in millions)": "$126,829"
+  },
+  {
+    "Rank": 46,
+    "Company": "FedEx",
+    "Valuation (in millions)": "$71,299"
+  },
+  {
+    "Rank": 47,
+    "Company": "Walt Disney",
+    "Valuation (in millions)": "$224,445"
+  },
+  {
+    "Rank": 48,
+    "Company": "Dell Technologies",
+    "Valuation (in millions)": "$81,451"
+  },
+  {
+    "Rank": 49,
+    "Company": "Lowe's",
+    "Valuation (in millions)": "$145,753"
+  },
+  {
+    "Rank": 50,
+    "Company": "Procter & Gamble",
+    "Valuation (in millions)": "$381,778"
+  },
+  {
+    "Rank": 51,
+    "Company": "Energy Transfer",
+    "Valuation (in millions)": "$52,975"
+  },
+  {
+    "Rank": 52,
+    "Company": "Boeing",
+    "Valuation (in millions)": "$117,750"
+  },
+  {
+    "Rank": 53,
+    "Company": "Albertsons",
+    "Valuation (in millions)": "$12,350"
+  },
+  {
+    "Rank": 54,
+    "Company": "Sysco",
+    "Valuation (in millions)": "$40,414"
+  },
+  {
+    "Rank": 55,
+    "Company": "RTX",
+    "Valuation (in millions)": "$129,680"
+  },
+  {
+    "Rank": 56,
+    "Company": "General Electric",
+    "Valuation (in millions)": "$191,901"
+  },
+  {
+    "Rank": 57,
+    "Company": "Lockheed Martin",
+    "Valuation (in millions)": "$109,394"
+  },
+  {
+    "Rank": 58,
+    "Company": "American Express",
+    "Valuation (in millions)": "$163,946"
+  },
+  {
+    "Rank": 59,
+    "Company": "Caterpillar",
+    "Valuation (in millions)": "$182,987"
+  },
+  {
+    "Rank": 60,
+    "Company": "MetLife",
+    "Valuation (in millions)": "$53,583"
+  },
+  {
+    "Rank": 61,
+    "Company": "HCA Healthcare",
+    "Valuation (in millions)": "$88,214"
+  },
+  {
+    "Rank": 62,
+    "Company": "Progressive",
+    "Valuation (in millions)": "$121,134"
+  },
+  {
+    "Rank": 63,
+    "Company": "International Business Machines",
+    "Valuation (in millions)": "$175,062"
+  },
+  {
+    "Rank": 64,
+    "Company": "Deere",
+    "Valuation (in millions)": "$114,333"
+  },
+  {
+    "Rank": 65,
+    "Company": "Nvidia",
+    "Valuation (in millions)": "$2,258,900"
+  },
+  {
+    "Rank": 66,
+    "Company": "StoneX Group",
+    "Valuation (in millions)": "$2,217"
+  },
+  {
+    "Rank": 67,
+    "Company": "Merck",
+    "Valuation (in millions)": "$334,182"
+  },
+  {
+    "Rank": 68,
+    "Company": "ConocoPhillips",
+    "Valuation (in millions)": "$149,733"
+  },
+  {
+    "Rank": 69,
+    "Company": "Pfizer",
+    "Valuation (in millions)": "$157,136"
+  },
+  {
+    "Rank": 70,
+    "Company": "Delta Air Lines",
+    "Valuation (in millions)": "$30,796"
+  },
+  {
+    "Rank": 71,
+    "Company": "TD Synnex",
+    "Valuation (in millions)": "$9,857"
+  },
+  {
+    "Rank": 72,
+    "Company": "Publix Super Markets",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 73,
+    "Company": "Allstate",
+    "Valuation (in millions)": "$45,513"
+  },
+  {
+    "Rank": 74,
+    "Company": "Cisco Systems",
+    "Valuation (in millions)": "$202,095"
+  },
+  {
+    "Rank": 75,
+    "Company": "Nationwide",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 76,
+    "Company": "Charter Communications",
+    "Valuation (in millions)": "$51,316"
+  },
+  {
+    "Rank": 77,
+    "Company": "AbbVie",
+    "Valuation (in millions)": "$322,435"
+  },
+  {
+    "Rank": 78,
+    "Company": "New York Life Insurance",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 79,
+    "Company": "Intel",
+    "Valuation (in millions)": "$188,026"
+  },
+  {
+    "Rank": 80,
+    "Company": "TJX",
+    "Valuation (in millions)": "$115,586"
+  },
+  {
+    "Rank": 81,
+    "Company": "Prudential Financial",
+    "Valuation (in millions)": "$42,191"
+  },
+  {
+    "Rank": 82,
+    "Company": "HP",
+    "Valuation (in millions)": "$29,570"
+  },
+  {
+    "Rank": 83,
+    "Company": "United Airlines Holdings",
+    "Valuation (in millions)": "$15,706"
+  },
+  {
+    "Rank": 84,
+    "Company": "Performance Food Group",
+    "Valuation (in millions)": "$11,613"
+  },
+  {
+    "Rank": 85,
+    "Company": "Tyson Foods",
+    "Valuation (in millions)": "$20,928"
+  },
+  {
+    "Rank": 86,
+    "Company": "American Airlines Group",
+    "Valuation (in millions)": "$10,051"
+  },
+  {
+    "Rank": 87,
+    "Company": "Liberty Mutual Insurance Group",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 88,
+    "Company": "Nike",
+    "Valuation (in millions)": "$142,391"
+  },
+  {
+    "Rank": 89,
+    "Company": "Oracle",
+    "Valuation (in millions)": "$345,241"
+  },
+  {
+    "Rank": 90,
+    "Company": "Enterprise Products Partners",
+    "Valuation (in millions)": "$63,269"
+  },
+  {
+    "Rank": 91,
+    "Company": "Capital One Financial",
+    "Valuation (in millions)": "$56,891"
+  },
+  {
+    "Rank": 92,
+    "Company": "Plains GP Holdings",
+    "Valuation (in millions)": "$3,598"
+  },
+  {
+    "Rank": 93,
+    "Company": "World Kinect",
+    "Valuation (in millions)": "$1,583"
+  },
+  {
+    "Rank": 94,
+    "Company": "American International Group",
+    "Valuation (in millions)": "$53,230"
+  },
+  {
+    "Rank": 95,
+    "Company": "Coca-Cola",
+    "Valuation (in millions)": "$263,759"
+  },
+  {
+    "Rank": 96,
+    "Company": "TIAA",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 97,
+    "Company": "CHS",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 98,
+    "Company": "Bristol-Myers Squibb",
+    "Valuation (in millions)": "$109,911"
+  },
+  {
+    "Rank": 99,
+    "Company": "Dow",
+    "Valuation (in millions)": "$40,740"
+  },
+  {
+    "Rank": 100,
+    "Company": "Best Buy",
+    "Valuation (in millions)": "$17,668"
+  },
+  {
+    "Rank": 101,
+    "Company": "Thermo Fisher Scientific",
+    "Valuation (in millions)": "$221,623"
+  },
+  {
+    "Rank": 102,
+    "Company": "Massachusetts Mutual Life Insurance",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 103,
+    "Company": "United Services Automobile Assn.",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 104,
+    "Company": "General Dynamics",
+    "Valuation (in millions)": "$77,506"
+  },
+  {
+    "Rank": 105,
+    "Company": "Travelers",
+    "Valuation (in millions)": "$52,731"
+  },
+  {
+    "Rank": 106,
+    "Company": "Warner Bros. Discovery",
+    "Valuation (in millions)": "$21,299"
+  },
+  {
+    "Rank": 107,
+    "Company": "U.S. Bancorp",
+    "Valuation (in millions)": "$69,657"
+  },
+  {
+    "Rank": 108,
+    "Company": "Abbott Laboratories",
+    "Valuation (in millions)": "$197,221"
+  },
+  {
+    "Rank": 109,
+    "Company": "Northrop Grumman",
+    "Valuation (in millions)": "$70,909"
+  },
+  {
+    "Rank": 110,
+    "Company": "Northwestern Mutual",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 111,
+    "Company": "Dollar General",
+    "Valuation (in millions)": "$34,282"
+  },
+  {
+    "Rank": 112,
+    "Company": "PBF Energy",
+    "Valuation (in millions)": "$6,860"
+  },
+  {
+    "Rank": 113,
+    "Company": "Uber Technologies",
+    "Valuation (in millions)": "$160,258"
+  },
+  {
+    "Rank": 114,
+    "Company": "Honeywell International",
+    "Valuation (in millions)": "$133,860"
+  },
+  {
+    "Rank": 115,
+    "Company": "Mondelez International",
+    "Valuation (in millions)": "$94,253"
+  },
+  {
+    "Rank": 116,
+    "Company": "Starbucks",
+    "Valuation (in millions)": "$103,472"
+  },
+  {
+    "Rank": 117,
+    "Company": "Qualcomm",
+    "Valuation (in millions)": "$188,939"
+  },
+  {
+    "Rank": 118,
+    "Company": "Broadcom",
+    "Valuation (in millions)": "$614,223"
+  },
+  {
+    "Rank": 119,
+    "Company": "US Foods Holding",
+    "Valuation (in millions)": "$13,217"
+  },
+  {
+    "Rank": 120,
+    "Company": "D.R. Horton",
+    "Valuation (in millions)": "$54,601"
+  },
+  {
+    "Rank": 121,
+    "Company": "Philip Morris International",
+    "Valuation (in millions)": "$142,428"
+  },
+  {
+    "Rank": 122,
+    "Company": "Paccar",
+    "Valuation (in millions)": "$64,920"
+  },
+  {
+    "Rank": 123,
+    "Company": "Salesforce",
+    "Valuation (in millions)": "$292,145"
+  },
+  {
+    "Rank": 124,
+    "Company": "Nucor",
+    "Valuation (in millions)": "$47,492"
+  },
+  {
+    "Rank": 125,
+    "Company": "Jabil",
+    "Valuation (in millions)": "$17,085"
+  },
+  {
+    "Rank": 126,
+    "Company": "Lennar",
+    "Valuation (in millions)": "$47,375"
+  },
+  {
+    "Rank": 127,
+    "Company": "Eli Lilly",
+    "Valuation (in millions)": "$739,658"
+  },
+  {
+    "Rank": 128,
+    "Company": "Molina Healthcare",
+    "Valuation (in millions)": "$24,068"
+  },
+  {
+    "Rank": 129,
+    "Company": "Cummins",
+    "Valuation (in millions)": "$41,798"
+  },
+  {
+    "Rank": 130,
+    "Company": "Bank of New York Mellon",
+    "Valuation (in millions)": "$43,380"
+  },
+  {
+    "Rank": 131,
+    "Company": "Netflix",
+    "Valuation (in millions)": "$262,828"
+  },
+  {
+    "Rank": 132,
+    "Company": "Truist Financial",
+    "Valuation (in millions)": "$52,022"
+  },
+  {
+    "Rank": 133,
+    "Company": "Arrow Electronics",
+    "Valuation (in millions)": "$6,988"
+  },
+  {
+    "Rank": 134,
+    "Company": "3M",
+    "Valuation (in millions)": "$58,695"
+  },
+  {
+    "Rank": 135,
+    "Company": "Visa",
+    "Valuation (in millions)": "$560,848"
+  },
+  {
+    "Rank": 136,
+    "Company": "Apollo Global Management",
+    "Valuation (in millions)": "$63,890"
+  },
+  {
+    "Rank": 137,
+    "Company": "HF Sinclair",
+    "Valuation (in millions)": "$11,988"
+  },
+  {
+    "Rank": 138,
+    "Company": "CBRE Group",
+    "Valuation (in millions)": "$29,726"
+  },
+  {
+    "Rank": 139,
+    "Company": "PNC Financial Services Group",
+    "Valuation (in millions)": "$64,292"
+  },
+  {
+    "Rank": 140,
+    "Company": "Lithia Motors",
+    "Valuation (in millions)": "$8,283"
+  },
+  {
+    "Rank": 141,
+    "Company": "CarMax",
+    "Valuation (in millions)": "$13,757"
+  },
+  {
+    "Rank": 142,
+    "Company": "Paramount Global",
+    "Valuation (in millions)": "$8,099"
+  },
+  {
+    "Rank": 143,
+    "Company": "Dollar Tree",
+    "Valuation (in millions)": "$29,024"
+  },
+  {
+    "Rank": 144,
+    "Company": "United Natural Foods",
+    "Valuation (in millions)": "$683"
+  },
+  {
+    "Rank": 145,
+    "Company": "PayPal Holdings",
+    "Valuation (in millions)": "$71,796"
+  },
+  {
+    "Rank": 146,
+    "Company": "Penske Automotive Group",
+    "Valuation (in millions)": "$10,861"
+  },
+  {
+    "Rank": 147,
+    "Company": "Hewlett Packard Enterprise",
+    "Valuation (in millions)": "$23,049"
+  },
+  {
+    "Rank": 148,
+    "Company": "Duke Energy",
+    "Valuation (in millions)": "$74,608"
+  },
+  {
+    "Rank": 149,
+    "Company": "Occidental Petroleum",
+    "Valuation (in millions)": "$57,611"
+  },
+  {
+    "Rank": 150,
+    "Company": "NRG Energy",
+    "Valuation (in millions)": "$14,535"
+  },
+  {
+    "Rank": 151,
+    "Company": "Amgen",
+    "Valuation (in millions)": "$152,373"
+  },
+  {
+    "Rank": 152,
+    "Company": "NextEra Energy",
+    "Valuation (in millions)": "$131,171"
+  },
+  {
+    "Rank": 153,
+    "Company": "Danaher",
+    "Valuation (in millions)": "$184,929"
+  },
+  {
+    "Rank": 154,
+    "Company": "Gilead Sciences",
+    "Valuation (in millions)": "$91,341"
+  },
+  {
+    "Rank": 155,
+    "Company": "AutoNation",
+    "Valuation (in millions)": "$6,902"
+  },
+  {
+    "Rank": 156,
+    "Company": "Kraft Heinz",
+    "Valuation (in millions)": "$44,857"
+  },
+  {
+    "Rank": 157,
+    "Company": "Avnet",
+    "Valuation (in millions)": "$4,480"
+  },
+  {
+    "Rank": 158,
+    "Company": "Applied Materials",
+    "Valuation (in millions)": "$171,356"
+  },
+  {
+    "Rank": 159,
+    "Company": "Southwest Airlines",
+    "Valuation (in millions)": "$17,417"
+  },
+  {
+    "Rank": 160,
+    "Company": "Charles Schwab",
+    "Valuation (in millions)": "$131,975"
+  },
+  {
+    "Rank": 161,
+    "Company": "Baker Hughes",
+    "Valuation (in millions)": "$33,530"
+  },
+  {
+    "Rank": 162,
+    "Company": "McDonald's",
+    "Valuation (in millions)": "$203,582"
+  },
+  {
+    "Rank": 163,
+    "Company": "Southern",
+    "Valuation (in millions)": "$78,269"
+  },
+  {
+    "Rank": 164,
+    "Company": "Mastercard",
+    "Valuation (in millions)": "$449,253"
+  },
+  {
+    "Rank": 165,
+    "Company": "Constellation Energy",
+    "Valuation (in millions)": "$58,250"
+  },
+  {
+    "Rank": 166,
+    "Company": "Hartford Financial Services Group",
+    "Valuation (in millions)": "$30,637"
+  },
+  {
+    "Rank": 167,
+    "Company": "PG&E",
+    "Valuation (in millions)": "$35,760"
+  },
+  {
+    "Rank": 168,
+    "Company": "Coupang",
+    "Valuation (in millions)": "$31,903"
+  },
+  {
+    "Rank": 169,
+    "Company": "EOG Resources",
+    "Valuation (in millions)": "$73,536"
+  },
+  {
+    "Rank": 170,
+    "Company": "Union Pacific",
+    "Valuation (in millions)": "$150,041"
+  },
+  {
+    "Rank": 171,
+    "Company": "Rite Aid",
+    "Valuation (in millions)": "$9"
+  },
+  {
+    "Rank": 172,
+    "Company": "Macy's",
+    "Valuation (in millions)": "$5,483"
+  },
+  {
+    "Rank": 173,
+    "Company": "Marriott International",
+    "Valuation (in millions)": "$72,731"
+  },
+  {
+    "Rank": 174,
+    "Company": "Lear",
+    "Valuation (in millions)": "$8,263"
+  },
+  {
+    "Rank": 175,
+    "Company": "Genuine Parts",
+    "Valuation (in millions)": "$21,601"
+  },
+  {
+    "Rank": 176,
+    "Company": "Sherwin-Williams",
+    "Valuation (in millions)": "$88,255"
+  },
+  {
+    "Rank": 177,
+    "Company": "Halliburton",
+    "Valuation (in millions)": "$35,088"
+  },
+  {
+    "Rank": 178,
+    "Company": "Freeport-McMoRan",
+    "Valuation (in millions)": "$67,446"
+  },
+  {
+    "Rank": 179,
+    "Company": "Live Nation Entertainment",
+    "Valuation (in millions)": "$24,412"
+  },
+  {
+    "Rank": 180,
+    "Company": "Marsh & McLennan",
+    "Valuation (in millions)": "$101,658"
+  },
+  {
+    "Rank": 181,
+    "Company": "Advanced Micro Devices",
+    "Valuation (in millions)": "$291,697"
+  },
+  {
+    "Rank": 182,
+    "Company": "First Citizens BancShares",
+    "Valuation (in millions)": "$23,620"
+  },
+  {
+    "Rank": 183,
+    "Company": "WESCO International",
+    "Valuation (in millions)": "$8,727"
+  },
+  {
+    "Rank": 184,
+    "Company": "Carrier Global",
+    "Valuation (in millions)": "$52,323"
+  },
+  {
+    "Rank": 185,
+    "Company": "Cleveland-Cliffs",
+    "Valuation (in millions)": "$11,331"
+  },
+  {
+    "Rank": 186,
+    "Company": "Block",
+    "Valuation (in millions)": "$52,075"
+  },
+  {
+    "Rank": 187,
+    "Company": "Exelon",
+    "Valuation (in millions)": "$37,560"
+  },
+  {
+    "Rank": 188,
+    "Company": "KKR",
+    "Valuation (in millions)": "$89,014"
+  },
+  {
+    "Rank": 189,
+    "Company": "CDW",
+    "Valuation (in millions)": "$34,330"
+  },
+  {
+    "Rank": 190,
+    "Company": "Booking Holdings",
+    "Valuation (in millions)": "$123,968"
+  },
+  {
+    "Rank": 191,
+    "Company": "Synchrony Financial",
+    "Valuation (in millions)": "$17,543"
+  },
+  {
+    "Rank": 192,
+    "Company": "Quanta Services",
+    "Valuation (in millions)": "$37,866"
+  },
+  {
+    "Rank": 193,
+    "Company": "Jones Lang LaSalle",
+    "Valuation (in millions)": "$9,256"
+  },
+  {
+    "Rank": 194,
+    "Company": "Discover Financial Services",
+    "Valuation (in millions)": "$32,847"
+  },
+  {
+    "Rank": 195,
+    "Company": "Tenet Healthcare",
+    "Valuation (in millions)": "$10,511"
+  },
+  {
+    "Rank": 196,
+    "Company": "Altria Group",
+    "Valuation (in millions)": "$76,922"
+  },
+  {
+    "Rank": 197,
+    "Company": "Stryker",
+    "Valuation (in millions)": "$136,159"
+  },
+  {
+    "Rank": 198,
+    "Company": "Kimberly-Clark",
+    "Valuation (in millions)": "$43,580"
+  },
+  {
+    "Rank": 199,
+    "Company": "Waste Management",
+    "Valuation (in millions)": "$85,601"
+  },
+  {
+    "Rank": 200,
+    "Company": "Cheniere Energy",
+    "Valuation (in millions)": "$37,851"
+  },
+  {
+    "Rank": 201,
+    "Company": "Ross Stores",
+    "Valuation (in millions)": "$49,409"
+  },
+  {
+    "Rank": 202,
+    "Company": "WestRock",
+    "Valuation (in millions)": "$12,707"
+  },
+  {
+    "Rank": 203,
+    "Company": "General Mills",
+    "Valuation (in millions)": "$39,502"
+  },
+  {
+    "Rank": 204,
+    "Company": "Goodyear Tire & Rubber",
+    "Valuation (in millions)": "$3,901"
+  },
+  {
+    "Rank": 205,
+    "Company": "BJ's Wholesale Club",
+    "Valuation (in millions)": "$10,059"
+  },
+  {
+    "Rank": 206,
+    "Company": "GE HealthCare Technologies",
+    "Valuation (in millions)": "$41,397"
+  },
+  {
+    "Rank": 207,
+    "Company": "Colgate-Palmolive",
+    "Valuation (in millions)": "$74,020"
+  },
+  {
+    "Rank": 208,
+    "Company": "Whirlpool",
+    "Valuation (in millions)": "$6,515"
+  },
+  {
+    "Rank": 209,
+    "Company": "L3Harris Technologies",
+    "Valuation (in millions)": "$40,508"
+  },
+  {
+    "Rank": 210,
+    "Company": "Adobe",
+    "Valuation (in millions)": "$226,061"
+  },
+  {
+    "Rank": 211,
+    "Company": "Becton Dickinson",
+    "Valuation (in millions)": "$71,489"
+  },
+  {
+    "Rank": 212,
+    "Company": "Pioneer Natural Resources",
+    "Valuation (in millions)": "$61,326"
+  },
+  {
+    "Rank": 213,
+    "Company": "Cognizant Technology Solutions",
+    "Valuation (in millions)": "$36,487"
+  },
+  {
+    "Rank": 214,
+    "Company": "Murphy USA",
+    "Valuation (in millions)": "$8,727"
+  },
+  {
+    "Rank": 215,
+    "Company": "Fiserv",
+    "Valuation (in millions)": "$94,358"
+  },
+  {
+    "Rank": 216,
+    "Company": "Parker-Hannifin",
+    "Valuation (in millions)": "$71,370"
+  },
+  {
+    "Rank": 217,
+    "Company": "American Electric Power",
+    "Valuation (in millions)": "$45,339"
+  },
+  {
+    "Rank": 218,
+    "Company": "International Paper",
+    "Valuation (in millions)": "$13,515"
+  },
+  {
+    "Rank": 219,
+    "Company": "ManpowerGroup",
+    "Valuation (in millions)": "$3,756"
+  },
+  {
+    "Rank": 220,
+    "Company": "Aramark",
+    "Valuation (in millions)": "$8,535"
+  },
+  {
+    "Rank": 221,
+    "Company": "Steel Dynamics",
+    "Valuation (in millions)": "$23,413"
+  },
+  {
+    "Rank": 222,
+    "Company": "Aflac",
+    "Valuation (in millions)": "$49,405"
+  },
+  {
+    "Rank": 223,
+    "Company": "Reinsurance Group of America",
+    "Valuation (in millions)": "$12,683"
+  },
+  {
+    "Rank": 224,
+    "Company": "Emerson Electric",
+    "Valuation (in millions)": "$64,842"
+  },
+  {
+    "Rank": 225,
+    "Company": "State Street",
+    "Valuation (in millions)": "$23,346"
+  },
+  {
+    "Rank": 226,
+    "Company": "PPG Industries",
+    "Valuation (in millions)": "$34,104"
+  },
+  {
+    "Rank": 227,
+    "Company": "United States Steel",
+    "Valuation (in millions)": "$9,168"
+  },
+  {
+    "Rank": 228,
+    "Company": "Automatic Data Processing",
+    "Valuation (in millions)": "$102,591"
+  },
+  {
+    "Rank": 229,
+    "Company": "Group 1 Automotive",
+    "Valuation (in millions)": "$3,999"
+  },
+  {
+    "Rank": 230,
+    "Company": "Dominion Energy",
+    "Valuation (in millions)": "$41,201"
+  },
+  {
+    "Rank": 231,
+    "Company": "BlackRock",
+    "Valuation (in millions)": "$124,173"
+  },
+  {
+    "Rank": 232,
+    "Company": "Oneok",
+    "Valuation (in millions)": "$46,752"
+  },
+  {
+    "Rank": 233,
+    "Company": "C.H. Robinson Worldwide",
+    "Valuation (in millions)": "$8,908"
+  },
+  {
+    "Rank": 234,
+    "Company": "Texas Instruments",
+    "Valuation (in millions)": "$158,541"
+  },
+  {
+    "Rank": 235,
+    "Company": "Kohl's",
+    "Valuation (in millions)": "$3,233"
+  },
+  {
+    "Rank": 236,
+    "Company": "AutoZone",
+    "Valuation (in millions)": "$54,533"
+  },
+  {
+    "Rank": 237,
+    "Company": "Lam Research",
+    "Valuation (in millions)": "$127,376"
+  },
+  {
+    "Rank": 238,
+    "Company": "Corteva",
+    "Valuation (in millions)": "$40,304"
+  },
+  {
+    "Rank": 239,
+    "Company": "Peter Kiewit Sons'",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 240,
+    "Company": "Builders FirstSource",
+    "Valuation (in millions)": "$25,431"
+  },
+  {
+    "Rank": 241,
+    "Company": "Kyndryl Holdings",
+    "Valuation (in millions)": "$5,007"
+  },
+  {
+    "Rank": 242,
+    "Company": "EchoStar",
+    "Valuation (in millions)": "$3,869"
+  },
+  {
+    "Rank": 243,
+    "Company": "American Family Insurance Group",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 244,
+    "Company": "Delek US Holdings",
+    "Valuation (in millions)": "$1,968"
+  },
+  {
+    "Rank": 245,
+    "Company": "Land O'Lakes",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 246,
+    "Company": "Sempra",
+    "Valuation (in millions)": "$45,439"
+  },
+  {
+    "Rank": 247,
+    "Company": "Global Partners",
+    "Valuation (in millions)": "$1,509"
+  },
+  {
+    "Rank": 248,
+    "Company": "W.W. Grainger",
+    "Valuation (in millions)": "$49,983"
+  },
+  {
+    "Rank": 249,
+    "Company": "Jacobs Solutions",
+    "Valuation (in millions)": "$19,316"
+  },
+  {
+    "Rank": 250,
+    "Company": "Edison International",
+    "Valuation (in millions)": "$27,208"
+  },
+  {
+    "Rank": 251,
+    "Company": "MGM Resorts International",
+    "Valuation (in millions)": "$14,966"
+  },
+  {
+    "Rank": 252,
+    "Company": "Guardian Life Ins. Co. of America",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 253,
+    "Company": "Illinois Tool Works",
+    "Valuation (in millions)": "$80,162"
+  },
+  {
+    "Rank": 254,
+    "Company": "Ameriprise Financial",
+    "Valuation (in millions)": "$43,928"
+  },
+  {
+    "Rank": 255,
+    "Company": "PulteGroup",
+    "Valuation (in millions)": "$25,449"
+  },
+  {
+    "Rank": 256,
+    "Company": "Targa Resources",
+    "Valuation (in millions)": "$24,922"
+  },
+  {
+    "Rank": 257,
+    "Company": "Ally Financial",
+    "Valuation (in millions)": "$12,338"
+  },
+  {
+    "Rank": 258,
+    "Company": "BorgWarner",
+    "Valuation (in millions)": "$8,023"
+  },
+  {
+    "Rank": 259,
+    "Company": "Estée Lauder",
+    "Valuation (in millions)": "$55,259"
+  },
+  {
+    "Rank": 260,
+    "Company": "Loews",
+    "Valuation (in millions)": "$17,396"
+  },
+  {
+    "Rank": 261,
+    "Company": "O'Reilly Automotive",
+    "Valuation (in millions)": "$66,634"
+  },
+  {
+    "Rank": 262,
+    "Company": "Markel Group",
+    "Valuation (in millions)": "$19,947"
+  },
+  {
+    "Rank": 263,
+    "Company": "Stanley Black & Decker",
+    "Valuation (in millions)": "$15,062"
+  },
+  {
+    "Rank": 264,
+    "Company": "Micron Technology",
+    "Valuation (in millions)": "$130,548"
+  },
+  {
+    "Rank": 265,
+    "Company": "Fluor",
+    "Valuation (in millions)": "$7,192"
+  },
+  {
+    "Rank": 266,
+    "Company": "Leidos Holdings",
+    "Valuation (in millions)": "$17,701"
+  },
+  {
+    "Rank": 267,
+    "Company": "Viatris",
+    "Valuation (in millions)": "$14,180"
+  },
+  {
+    "Rank": 268,
+    "Company": "Kinder Morgan",
+    "Valuation (in millions)": "$40,703"
+  },
+  {
+    "Rank": 269,
+    "Company": "Ecolab",
+    "Valuation (in millions)": "$66,017"
+  },
+  {
+    "Rank": 270,
+    "Company": "Baxter International",
+    "Valuation (in millions)": "$21,705"
+  },
+  {
+    "Rank": 271,
+    "Company": "Devon Energy",
+    "Valuation (in millions)": "$31,864"
+  },
+  {
+    "Rank": 272,
+    "Company": "Kellanova",
+    "Valuation (in millions)": "$19,579"
+  },
+  {
+    "Rank": 273,
+    "Company": "Farmers Insurance Exchange",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 274,
+    "Company": "Casey's General Stores",
+    "Valuation (in millions)": "$11,788"
+  },
+  {
+    "Rank": 275,
+    "Company": "IQVIA Holdings",
+    "Valuation (in millions)": "$46,029"
+  },
+  {
+    "Rank": 276,
+    "Company": "Republic Services",
+    "Valuation (in millions)": "$60,229"
+  },
+  {
+    "Rank": 277,
+    "Company": "Fox",
+    "Valuation (in millions)": "$14,225"
+  },
+  {
+    "Rank": 278,
+    "Company": "Gap",
+    "Valuation (in millions)": "$10,290"
+  },
+  {
+    "Rank": 279,
+    "Company": "Keurig Dr Pepper",
+    "Valuation (in millions)": "$42,557"
+  },
+  {
+    "Rank": 280,
+    "Company": "Reliance",
+    "Valuation (in millions)": "$19,190"
+  },
+  {
+    "Rank": 281,
+    "Company": "Asbury Automotive Group",
+    "Valuation (in millions)": "$4,811"
+  },
+  {
+    "Rank": 282,
+    "Company": "Pacific Life",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 283,
+    "Company": "Vistra",
+    "Valuation (in millions)": "$24,230"
+  },
+  {
+    "Rank": 284,
+    "Company": "Western & Southern Financial Group",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 285,
+    "Company": "Andersons",
+    "Valuation (in millions)": "$1,953"
+  },
+  {
+    "Rank": 286,
+    "Company": "Nordstrom",
+    "Valuation (in millions)": "$3,309"
+  },
+  {
+    "Rank": 287,
+    "Company": "Omnicom Group",
+    "Valuation (in millions)": "$19,081"
+  },
+  {
+    "Rank": 288,
+    "Company": "Fidelity National Information Services",
+    "Valuation (in millions)": "$42,762"
+  },
+  {
+    "Rank": 289,
+    "Company": "Consolidated Edison",
+    "Valuation (in millions)": "$31,376"
+  },
+  {
+    "Rank": 290,
+    "Company": "CSX",
+    "Valuation (in millions)": "$72,568"
+  },
+  {
+    "Rank": 291,
+    "Company": "AECOM",
+    "Valuation (in millions)": "$13,341"
+  },
+  {
+    "Rank": 292,
+    "Company": "Lumen Technologies",
+    "Valuation (in millions)": "$1,585"
+  },
+  {
+    "Rank": 293,
+    "Company": "Tractor Supply",
+    "Valuation (in millions)": "$28,248"
+  },
+  {
+    "Rank": 294,
+    "Company": "DXC Technology",
+    "Valuation (in millions)": "$3,879"
+  },
+  {
+    "Rank": 295,
+    "Company": "AGCO",
+    "Valuation (in millions)": "$9,180"
+  },
+  {
+    "Rank": 296,
+    "Company": "Sonic Automotive",
+    "Valuation (in millions)": "$1,942"
+  },
+  {
+    "Rank": 297,
+    "Company": "Intuit",
+    "Valuation (in millions)": "$181,986"
+  },
+  {
+    "Rank": 298,
+    "Company": "United Rentals",
+    "Valuation (in millions)": "$48,437"
+  },
+  {
+    "Rank": 299,
+    "Company": "Universal Health Services",
+    "Valuation (in millions)": "$12,265"
+  },
+  {
+    "Rank": 300,
+    "Company": "Boston Scientific",
+    "Valuation (in millions)": "$100,673"
+  },
+  {
+    "Rank": 301,
+    "Company": "Otis Worldwide",
+    "Valuation (in millions)": "$40,250"
+  },
+  {
+    "Rank": 302,
+    "Company": "Xcel Energy",
+    "Valuation (in millions)": "$29,840"
+  },
+  {
+    "Rank": 303,
+    "Company": "Jones Financial (Edward Jones)",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 304,
+    "Company": "Ball",
+    "Valuation (in millions)": "$21,206"
+  },
+  {
+    "Rank": 305,
+    "Company": "LKQ",
+    "Valuation (in millions)": "$14,249"
+  },
+  {
+    "Rank": 306,
+    "Company": "Mutual of Omaha Insurance",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 307,
+    "Company": "Mosaic",
+    "Valuation (in millions)": "$10,442"
+  },
+  {
+    "Rank": 308,
+    "Company": "Textron",
+    "Valuation (in millions)": "$18,501"
+  },
+  {
+    "Rank": 309,
+    "Company": "Laboratory Corp. of America",
+    "Valuation (in millions)": "$18,373"
+  },
+  {
+    "Rank": 310,
+    "Company": "Principal Financial",
+    "Valuation (in millions)": "$20,358"
+  },
+  {
+    "Rank": 311,
+    "Company": "Regeneron Pharmaceuticals",
+    "Valuation (in millions)": "$105,645"
+  },
+  {
+    "Rank": 312,
+    "Company": "Raymond James Financial",
+    "Valuation (in millions)": "$26,843"
+  },
+  {
+    "Rank": 313,
+    "Company": "Dick's Sporting Goods",
+    "Valuation (in millions)": "$18,539"
+  },
+  {
+    "Rank": 314,
+    "Company": "Auto-Owners Insurance",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 315,
+    "Company": "Expedia Group",
+    "Valuation (in millions)": "$18,774"
+  },
+  {
+    "Rank": 316,
+    "Company": "J.B. Hunt Transport Services",
+    "Valuation (in millions)": "$20,582"
+  },
+  {
+    "Rank": 317,
+    "Company": "M&T Bank",
+    "Valuation (in millions)": "$24,233"
+  },
+  {
+    "Rank": 318,
+    "Company": "DTE Energy",
+    "Valuation (in millions)": "$23,205"
+  },
+  {
+    "Rank": 319,
+    "Company": "AES",
+    "Valuation (in millions)": "$12,745"
+  },
+  {
+    "Rank": 320,
+    "Company": "Berry Global Group",
+    "Valuation (in millions)": "$7,010"
+  },
+  {
+    "Rank": 321,
+    "Company": "Fifth Third Bancorp",
+    "Valuation (in millions)": "$25,435"
+  },
+  {
+    "Rank": 322,
+    "Company": "Air Products & Chemicals",
+    "Valuation (in millions)": "$53,857"
+  },
+  {
+    "Rank": 323,
+    "Company": "Corning",
+    "Valuation (in millions)": "$28,192"
+  },
+  {
+    "Rank": 324,
+    "Company": "EMCOR Group",
+    "Valuation (in millions)": "$16,482"
+  },
+  {
+    "Rank": 325,
+    "Company": "Amphenol",
+    "Valuation (in millions)": "$69,193"
+  },
+  {
+    "Rank": 326,
+    "Company": "Westlake",
+    "Valuation (in millions)": "$19,637"
+  },
+  {
+    "Rank": 327,
+    "Company": "DuPont",
+    "Valuation (in millions)": "$32,016"
+  },
+  {
+    "Rank": 328,
+    "Company": "Liberty Media",
+    "Valuation (in millions)": "$9,700"
+  },
+  {
+    "Rank": 329,
+    "Company": "S&P Global",
+    "Valuation (in millions)": "$136,253"
+  },
+  {
+    "Rank": 330,
+    "Company": "Community Health Systems",
+    "Valuation (in millions)": "$486"
+  },
+  {
+    "Rank": 331,
+    "Company": "FirstEnergy",
+    "Valuation (in millions)": "$22,226"
+  },
+  {
+    "Rank": 332,
+    "Company": "Unum Group",
+    "Valuation (in millions)": "$10,299"
+  },
+  {
+    "Rank": 333,
+    "Company": "Henry Schein",
+    "Valuation (in millions)": "$9,705"
+  },
+  {
+    "Rank": 334,
+    "Company": "Western Digital",
+    "Valuation (in millions)": "$22,279"
+  },
+  {
+    "Rank": 335,
+    "Company": "Analog Devices",
+    "Valuation (in millions)": "$98,086"
+  },
+  {
+    "Rank": 336,
+    "Company": "Conagra Brands",
+    "Valuation (in millions)": "$14,168"
+  },
+  {
+    "Rank": 337,
+    "Company": "Citizens Financial Group",
+    "Valuation (in millions)": "$16,635"
+  },
+  {
+    "Rank": 338,
+    "Company": "Norfolk Southern",
+    "Valuation (in millions)": "$57,570"
+  },
+  {
+    "Rank": 339,
+    "Company": "Entergy",
+    "Valuation (in millions)": "$22,536"
+  },
+  {
+    "Rank": 340,
+    "Company": "W.R. Berkley",
+    "Valuation (in millions)": "$22,689"
+  },
+  {
+    "Rank": 341,
+    "Company": "DaVita",
+    "Valuation (in millions)": "$12,107"
+  },
+  {
+    "Rank": 342,
+    "Company": "Northern Trust",
+    "Valuation (in millions)": "$18,141"
+  },
+  {
+    "Rank": 343,
+    "Company": "Hormel Foods",
+    "Valuation (in millions)": "$19,109"
+  },
+  {
+    "Rank": 344,
+    "Company": "Crown Holdings",
+    "Valuation (in millions)": "$9,574"
+  },
+  {
+    "Rank": 345,
+    "Company": "Avis Budget Group",
+    "Valuation (in millions)": "$4,344"
+  },
+  {
+    "Rank": 346,
+    "Company": "Wayfair",
+    "Valuation (in millions)": "$8,175"
+  },
+  {
+    "Rank": 347,
+    "Company": "MasTec",
+    "Valuation (in millions)": "$7,393"
+  },
+  {
+    "Rank": 348,
+    "Company": "Eversource Energy",
+    "Valuation (in millions)": "$20,963"
+  },
+  {
+    "Rank": 349,
+    "Company": "Newmont",
+    "Valuation (in millions)": "$41,316"
+  },
+  {
+    "Rank": 350,
+    "Company": "Ryder System",
+    "Valuation (in millions)": "$5,321"
+  },
+  {
+    "Rank": 351,
+    "Company": "Fidelity National Financial",
+    "Valuation (in millions)": "$14,507"
+  },
+  {
+    "Rank": 352,
+    "Company": "Molson Coors Beverage",
+    "Valuation (in millions)": "$14,298"
+  },
+  {
+    "Rank": 353,
+    "Company": "Caesars Entertainment",
+    "Valuation (in millions)": "$9,461"
+  },
+  {
+    "Rank": 354,
+    "Company": "Lincoln National",
+    "Valuation (in millions)": "$5,418"
+  },
+  {
+    "Rank": 355,
+    "Company": "VF",
+    "Valuation (in millions)": "$5,964"
+  },
+  {
+    "Rank": 356,
+    "Company": "International Flavors & Fragrances",
+    "Valuation (in millions)": "$21,955"
+  },
+  {
+    "Rank": 357,
+    "Company": "Huntington Ingalls Industries",
+    "Valuation (in millions)": "$11,545"
+  },
+  {
+    "Rank": 358,
+    "Company": "Advance Auto Parts",
+    "Valuation (in millions)": "$5,072"
+  },
+  {
+    "Rank": 359,
+    "Company": "Public Service Enterprise Group",
+    "Valuation (in millions)": "$33,296"
+  },
+  {
+    "Rank": 360,
+    "Company": "Ulta Beauty",
+    "Valuation (in millions)": "$25,239"
+  },
+  {
+    "Rank": 361,
+    "Company": "Hershey",
+    "Valuation (in millions)": "$39,719"
+  },
+  {
+    "Rank": 362,
+    "Company": "Chewy",
+    "Valuation (in millions)": "$6,920"
+  },
+  {
+    "Rank": 363,
+    "Company": "American Tower",
+    "Valuation (in millions)": "$92,147"
+  },
+  {
+    "Rank": 364,
+    "Company": "Mohawk Industries",
+    "Valuation (in millions)": "$8,337"
+  },
+  {
+    "Rank": 365,
+    "Company": "Assurant",
+    "Valuation (in millions)": "$9,784"
+  },
+  {
+    "Rank": 366,
+    "Company": "THOR Industries",
+    "Valuation (in millions)": "$6,257"
+  },
+  {
+    "Rank": 367,
+    "Company": "Graybar Electric",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 368,
+    "Company": "Yum China Holdings",
+    "Valuation (in millions)": "$15,599"
+  },
+  {
+    "Rank": 369,
+    "Company": "Celanese",
+    "Valuation (in millions)": "$19,173"
+  },
+  {
+    "Rank": 370,
+    "Company": "Qurate Retail",
+    "Valuation (in millions)": "$511"
+  },
+  {
+    "Rank": 371,
+    "Company": "Williams",
+    "Valuation (in millions)": "$47,482"
+  },
+  {
+    "Rank": 372,
+    "Company": "Interpublic Group",
+    "Valuation (in millions)": "$12,358"
+  },
+  {
+    "Rank": 373,
+    "Company": "Ovintiv",
+    "Valuation (in millions)": "$13,959"
+  },
+  {
+    "Rank": 374,
+    "Company": "Icahn Enterprises",
+    "Valuation (in millions)": "$7,298"
+  },
+  {
+    "Rank": 375,
+    "Company": "Huntington Bancshares",
+    "Valuation (in millions)": "$20,309"
+  },
+  {
+    "Rank": 376,
+    "Company": "Erie Insurance Group",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 377,
+    "Company": "Carvana",
+    "Valuation (in millions)": "$16,944"
+  },
+  {
+    "Rank": 378,
+    "Company": "Hess",
+    "Valuation (in millions)": "$46,884"
+  },
+  {
+    "Rank": 379,
+    "Company": "Dana",
+    "Valuation (in millions)": "$1,841"
+  },
+  {
+    "Rank": 380,
+    "Company": "Alcoa",
+    "Valuation (in millions)": "$6,067"
+  },
+  {
+    "Rank": 381,
+    "Company": "Equitable Holdings",
+    "Valuation (in millions)": "$12,532"
+  },
+  {
+    "Rank": 382,
+    "Company": "KLA",
+    "Valuation (in millions)": "$94,470"
+  },
+  {
+    "Rank": 383,
+    "Company": "Darden Restaurants",
+    "Valuation (in millions)": "$19,960"
+  },
+  {
+    "Rank": 384,
+    "Company": "Autoliv",
+    "Valuation (in millions)": "$9,810"
+  },
+  {
+    "Rank": 385,
+    "Company": "Alaska Air Group",
+    "Valuation (in millions)": "$5,408"
+  },
+  {
+    "Rank": 386,
+    "Company": "KeyCorp",
+    "Valuation (in millions)": "$14,663"
+  },
+  {
+    "Rank": 387,
+    "Company": "Las Vegas Sands",
+    "Valuation (in millions)": "$38,840"
+  },
+  {
+    "Rank": 388,
+    "Company": "Owens & Minor",
+    "Valuation (in millions)": "$2,123"
+  },
+  {
+    "Rank": 389,
+    "Company": "Hilton Worldwide Holdings",
+    "Valuation (in millions)": "$53,788"
+  },
+  {
+    "Rank": 390,
+    "Company": "Ebay",
+    "Valuation (in millions)": "$27,340"
+  },
+  {
+    "Rank": 391,
+    "Company": "Arthur J. Gallagher",
+    "Valuation (in millions)": "$54,584"
+  },
+  {
+    "Rank": 392,
+    "Company": "LPL Financial Holdings",
+    "Valuation (in millions)": "$19,736"
+  },
+  {
+    "Rank": 393,
+    "Company": "Cincinnati Financial",
+    "Valuation (in millions)": "$19,456"
+  },
+  {
+    "Rank": 394,
+    "Company": "Toll Brothers",
+    "Valuation (in millions)": "$13,477"
+  },
+  {
+    "Rank": 395,
+    "Company": "Motorola Solutions",
+    "Valuation (in millions)": "$59,142"
+  },
+  {
+    "Rank": 396,
+    "Company": "Airbnb",
+    "Valuation (in millions)": "$106,740"
+  },
+  {
+    "Rank": 397,
+    "Company": "Intercontinental Exchange",
+    "Valuation (in millions)": "$78,695"
+  },
+  {
+    "Rank": 398,
+    "Company": "News Corp.",
+    "Valuation (in millions)": "$15,120"
+  },
+  {
+    "Rank": 399,
+    "Company": "Chipotle Mexican Grill",
+    "Valuation (in millions)": "$79,707"
+  },
+  {
+    "Rank": 400,
+    "Company": "Vertex Pharmaceuticals",
+    "Valuation (in millions)": "$107,975"
+  },
+  {
+    "Rank": 401,
+    "Company": "Biogen",
+    "Valuation (in millions)": "$31,344"
+  },
+  {
+    "Rank": 402,
+    "Company": "GXO Logistics",
+    "Valuation (in millions)": "$6,412"
+  },
+  {
+    "Rank": 403,
+    "Company": "SpartanNash",
+    "Valuation (in millions)": "$700"
+  },
+  {
+    "Rank": 404,
+    "Company": "Burlington Stores",
+    "Valuation (in millions)": "$14,841"
+  },
+  {
+    "Rank": 405,
+    "Company": "Thrivent Financial for Lutherans",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 406,
+    "Company": "NVR",
+    "Valuation (in millions)": "$25,904"
+  },
+  {
+    "Rank": 407,
+    "Company": "Westinghouse Air Brake Technologies",
+    "Valuation (in millions)": "$25,790"
+  },
+  {
+    "Rank": 407,
+    "Company": "Owens Corning",
+    "Valuation (in millions)": "$14,510"
+  },
+  {
+    "Rank": 409,
+    "Company": "Oshkosh",
+    "Valuation (in millions)": "$8,178"
+  },
+  {
+    "Rank": 410,
+    "Company": "Global Payments",
+    "Valuation (in millions)": "$34,095"
+  },
+  {
+    "Rank": 411,
+    "Company": "Lululemon athletica",
+    "Valuation (in millions)": "$49,225"
+  },
+  {
+    "Rank": 412,
+    "Company": "Albemarle",
+    "Valuation (in millions)": "$15,483"
+  },
+  {
+    "Rank": 413,
+    "Company": "JetBlue Airways",
+    "Valuation (in millions)": "$2,524"
+  },
+  {
+    "Rank": 414,
+    "Company": "Seaboard",
+    "Valuation (in millions)": "$3,131"
+  },
+  {
+    "Rank": 415,
+    "Company": "Constellation Brands",
+    "Valuation (in millions)": "$49,683"
+  },
+  {
+    "Rank": 416,
+    "Company": "Graphic Packaging Holding",
+    "Valuation (in millions)": "$8,931"
+  },
+  {
+    "Rank": 417,
+    "Company": "Hertz Global Holdings",
+    "Valuation (in millions)": "$2,391"
+  },
+  {
+    "Rank": 418,
+    "Company": "FM Global",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 419,
+    "Company": "Campbell Soup",
+    "Valuation (in millions)": "$13,251"
+  },
+  {
+    "Rank": 420,
+    "Company": "Expeditors International of Washington",
+    "Valuation (in millions)": "$17,249"
+  },
+  {
+    "Rank": 421,
+    "Company": "A-Mark Precious Metals",
+    "Valuation (in millions)": "$701"
+  },
+  {
+    "Rank": 422,
+    "Company": "Booz Allen Hamilton Holding",
+    "Valuation (in millions)": "$19,260"
+  },
+  {
+    "Rank": 423,
+    "Company": "Quest Diagnostics",
+    "Valuation (in millions)": "$14,783"
+  },
+  {
+    "Rank": 424,
+    "Company": "Altice USA",
+    "Valuation (in millions)": "$1,191"
+  },
+  {
+    "Rank": 425,
+    "Company": "PVH",
+    "Valuation (in millions)": "$8,386"
+  },
+  {
+    "Rank": 426,
+    "Company": "Eastman Chemical",
+    "Valuation (in millions)": "$11,786"
+  },
+  {
+    "Rank": 427,
+    "Company": "Insight Enterprises",
+    "Valuation (in millions)": "$6,046"
+  },
+  {
+    "Rank": 428,
+    "Company": "Regions Financial",
+    "Valuation (in millions)": "$19,333"
+  },
+  {
+    "Rank": 429,
+    "Company": "Beacon Roofing Supply",
+    "Valuation (in millions)": "$6,218"
+  },
+  {
+    "Rank": 430,
+    "Company": "Rockwell Automation",
+    "Valuation (in millions)": "$33,384"
+  },
+  {
+    "Rank": 431,
+    "Company": "Polaris",
+    "Valuation (in millions)": "$5,655"
+  },
+  {
+    "Rank": 432,
+    "Company": "ServiceNow",
+    "Valuation (in millions)": "$156,292"
+  },
+  {
+    "Rank": 433,
+    "Company": "Sanmina",
+    "Valuation (in millions)": "$3,468"
+  },
+  {
+    "Rank": 434,
+    "Company": "UGI",
+    "Valuation (in millions)": "$5,142"
+  },
+  {
+    "Rank": 435,
+    "Company": "WEC Energy Group",
+    "Valuation (in millions)": "$25,935"
+  },
+  {
+    "Rank": 436,
+    "Company": "BrightSpring Health Services",
+    "Valuation (in millions)": "$1,861"
+  },
+  {
+    "Rank": 437,
+    "Company": "Cintas",
+    "Valuation (in millions)": "$69,695"
+  },
+  {
+    "Rank": 438,
+    "Company": "Commercial Metals",
+    "Valuation (in millions)": "$6,800"
+  },
+  {
+    "Rank": 439,
+    "Company": "Continental Resources",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 440,
+    "Company": "Chesapeake Energy",
+    "Valuation (in millions)": "$11,619"
+  },
+  {
+    "Rank": 441,
+    "Company": "CenterPoint Energy",
+    "Valuation (in millions)": "$18,035"
+  },
+  {
+    "Rank": 442,
+    "Company": "NGL Energy Partners",
+    "Valuation (in millions)": "$763"
+  },
+  {
+    "Rank": 443,
+    "Company": "DoorDash",
+    "Valuation (in millions)": "$55,640"
+  },
+  {
+    "Rank": 444,
+    "Company": "NOV",
+    "Valuation (in millions)": "$7,691"
+  },
+  {
+    "Rank": 445,
+    "Company": "Zoetis",
+    "Valuation (in millions)": "$77,476"
+  },
+  {
+    "Rank": 446,
+    "Company": "J.M. Smucker",
+    "Valuation (in millions)": "$13,364"
+  },
+  {
+    "Rank": 447,
+    "Company": "Microchip Technology",
+    "Valuation (in millions)": "$48,478"
+  },
+  {
+    "Rank": 448,
+    "Company": "Dover",
+    "Valuation (in millions)": "$24,342"
+  },
+  {
+    "Rank": 449,
+    "Company": "Diamondback Energy",
+    "Valuation (in millions)": "$35,363"
+  },
+  {
+    "Rank": 450,
+    "Company": "Avery Dennison",
+    "Valuation (in millions)": "$17,976"
+  },
+  {
+    "Rank": 451,
+    "Company": "PPL",
+    "Valuation (in millions)": "$20,306"
+  },
+  {
+    "Rank": 452,
+    "Company": "ON Semiconductor",
+    "Valuation (in millions)": "$31,430"
+  },
+  {
+    "Rank": 453,
+    "Company": "ARKO",
+    "Valuation (in millions)": "$662"
+  },
+  {
+    "Rank": 454,
+    "Company": "Par Pacific Holdings",
+    "Valuation (in millions)": "$2,199"
+  },
+  {
+    "Rank": 455,
+    "Company": "APA",
+    "Valuation (in millions)": "$10,367"
+  },
+  {
+    "Rank": 456,
+    "Company": "Equinix",
+    "Valuation (in millions)": "$78,094"
+  },
+  {
+    "Rank": 457,
+    "Company": "New York Community Bancorp",
+    "Valuation (in millions)": "$2,569"
+  },
+  {
+    "Rank": 458,
+    "Company": "Foot Locker",
+    "Valuation (in millions)": "$2,693"
+  },
+  {
+    "Rank": 459,
+    "Company": "Ingredion",
+    "Valuation (in millions)": "$7,666"
+  },
+  {
+    "Rank": 460,
+    "Company": "Newell Brands",
+    "Valuation (in millions)": "$3,334"
+  },
+  {
+    "Rank": 461,
+    "Company": "ABM Industries",
+    "Valuation (in millions)": "$2,824"
+  },
+  {
+    "Rank": 462,
+    "Company": "Securian Financial Group",
+    "Valuation (in millions)": ""
+  },
+  {
+    "Rank": 463,
+    "Company": "Prologis",
+    "Valuation (in millions)": "$120,460"
+  },
+  {
+    "Rank": 464,
+    "Company": "Blackstone",
+    "Valuation (in millions)": "$93,883"
+  },
+  {
+    "Rank": 465,
+    "Company": "Skechers U.S.A.",
+    "Valuation (in millions)": "$9,390"
+  },
+  {
+    "Rank": 466,
+    "Company": "Masco",
+    "Valuation (in millions)": "$17,335"
+  },
+  {
+    "Rank": 467,
+    "Company": "Rush Enterprises",
+    "Valuation (in millions)": "$4,164"
+  },
+  {
+    "Rank": 468,
+    "Company": "Franklin Resources",
+    "Valuation (in millions)": "$14,802"
+  },
+  {
+    "Rank": 469,
+    "Company": "ODP",
+    "Valuation (in millions)": "$1,943"
+  },
+  {
+    "Rank": 470,
+    "Company": "American Financial Group",
+    "Valuation (in millions)": "$11,418"
+  },
+  {
+    "Rank": 471,
+    "Company": "Packaging Corp. of America",
+    "Valuation (in millions)": "$17,034"
+  },
+  {
+    "Rank": 472,
+    "Company": "Vulcan Materials",
+    "Valuation (in millions)": "$36,100"
+  },
+  {
+    "Rank": 473,
+    "Company": "Interactive Brokers Group",
+    "Valuation (in millions)": "$47,328"
+  },
+  {
+    "Rank": 474,
+    "Company": "Williams-Sonoma",
+    "Valuation (in millions)": "$20,358"
+  },
+  {
+    "Rank": 475,
+    "Company": "XPO",
+    "Valuation (in millions)": "$14,169"
+  },
+  {
+    "Rank": 476,
+    "Company": "Weyerhaeuser",
+    "Valuation (in millions)": "$26,201"
+  },
+  {
+    "Rank": 477,
+    "Company": "Genworth Financial",
+    "Valuation (in millions)": "$2,826"
+  },
+  {
+    "Rank": 478,
+    "Company": "CMS Energy",
+    "Valuation (in millions)": "$18,019"
+  },
+  {
+    "Rank": 479,
+    "Company": "Science Applications International",
+    "Valuation (in millions)": "$6,734"
+  },
+  {
+    "Rank": 480,
+    "Company": "Jefferies Financial Group",
+    "Valuation (in millions)": "$9,348"
+  },
+  {
+    "Rank": 481,
+    "Company": "Bath & Body Works",
+    "Valuation (in millions)": "$11,249"
+  },
+  {
+    "Rank": 482,
+    "Company": "Electronic Arts",
+    "Valuation (in millions)": "$35,469"
+  },
+  {
+    "Rank": 483,
+    "Company": "Taylor Morrison Home",
+    "Valuation (in millions)": "$6,617"
+  },
+  {
+    "Rank": 484,
+    "Company": "Zimmer Biomet Holdings",
+    "Valuation (in millions)": "$27,117"
+  },
+  {
+    "Rank": 485,
+    "Company": "Clorox",
+    "Valuation (in millions)": "$19,002"
+  },
+  {
+    "Rank": 486,
+    "Company": "Xylem",
+    "Valuation (in millions)": "$31,246"
+  },
+  {
+    "Rank": 487,
+    "Company": "Voya Financial",
+    "Valuation (in millions)": "$7,511"
+  },
+  {
+    "Rank": 488,
+    "Company": "Fastenal",
+    "Valuation (in millions)": "$44,157"
+  },
+  {
+    "Rank": 489,
+    "Company": "Watsco",
+    "Valuation (in millions)": "$17,061"
+  },
+  {
+    "Rank": 490,
+    "Company": "Workday",
+    "Valuation (in millions)": "$72,006"
+  },
+  {
+    "Rank": 491,
+    "Company": "Old Republic International",
+    "Valuation (in millions)": "$8,464"
+  },
+  {
+    "Rank": 492,
+    "Company": "RPM International",
+    "Valuation (in millions)": "$15,329"
+  },
+  {
+    "Rank": 493,
+    "Company": "UFP Industries",
+    "Valuation (in millions)": "$7,569"
+  },
+  {
+    "Rank": 494,
+    "Company": "Ameren",
+    "Valuation (in millions)": "$19,711"
+  },
+  {
+    "Rank": 495,
+    "Company": "Knight-Swift Transportation Hldgs.",
+    "Valuation (in millions)": "$8,885"
+  },
+  {
+    "Rank": 496,
+    "Company": "Monster Beverage",
+    "Valuation (in millions)": "$61,689"
+  },
+  {
+    "Rank": 497,
+    "Company": "Intuitive Surgical",
+    "Valuation (in millions)": "$141,457"
+  },
+  {
+    "Rank": 498,
+    "Company": "Super Micro Computer",
+    "Valuation (in millions)": "$59,138"
+  },
+  {
+    "Rank": 499,
+    "Company": "Concentrix",
+    "Valuation (in millions)": "$4,342"
+  },
+  {
+    "Rank": 500,
+    "Company": "O-I Glass",
+    "Valuation (in millions)": "$2,549"
+  }
+]

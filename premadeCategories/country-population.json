@@ -1,0 +1,1172 @@
+[
+  {
+    "#": 1,
+    "Country (or dependency)": "India",
+    "Population\n(2024)": "1,450,935,791"
+  },
+  {
+    "#": 2,
+    "Country (or dependency)": "China",
+    "Population\n(2024)": "1,419,321,278"
+  },
+  {
+    "#": 3,
+    "Country (or dependency)": "United States",
+    "Population\n(2024)": "345,426,571"
+  },
+  {
+    "#": 4,
+    "Country (or dependency)": "Indonesia",
+    "Population\n(2024)": "283,487,931"
+  },
+  {
+    "#": 5,
+    "Country (or dependency)": "Pakistan",
+    "Population\n(2024)": "251,269,164"
+  },
+  {
+    "#": 6,
+    "Country (or dependency)": "Nigeria",
+    "Population\n(2024)": "232,679,478"
+  },
+  {
+    "#": 7,
+    "Country (or dependency)": "Brazil",
+    "Population\n(2024)": "211,998,573"
+  },
+  {
+    "#": 8,
+    "Country (or dependency)": "Bangladesh",
+    "Population\n(2024)": "173,562,364"
+  },
+  {
+    "#": 9,
+    "Country (or dependency)": "Russia",
+    "Population\n(2024)": "144,820,423"
+  },
+  {
+    "#": 10,
+    "Country (or dependency)": "Ethiopia",
+    "Population\n(2024)": "132,059,767"
+  },
+  {
+    "#": 11,
+    "Country (or dependency)": "Mexico",
+    "Population\n(2024)": "130,861,007"
+  },
+  {
+    "#": 12,
+    "Country (or dependency)": "Japan",
+    "Population\n(2024)": "123,753,041"
+  },
+  {
+    "#": 13,
+    "Country (or dependency)": "Egypt",
+    "Population\n(2024)": "116,538,258"
+  },
+  {
+    "#": 14,
+    "Country (or dependency)": "Philippines",
+    "Population\n(2024)": "115,843,670"
+  },
+  {
+    "#": 15,
+    "Country (or dependency)": "DR Congo",
+    "Population\n(2024)": "109,276,265"
+  },
+  {
+    "#": 16,
+    "Country (or dependency)": "Vietnam",
+    "Population\n(2024)": "100,987,686"
+  },
+  {
+    "#": 17,
+    "Country (or dependency)": "Iran",
+    "Population\n(2024)": "91,567,738"
+  },
+  {
+    "#": 18,
+    "Country (or dependency)": "Turkey",
+    "Population\n(2024)": "87,473,805"
+  },
+  {
+    "#": 19,
+    "Country (or dependency)": "Germany",
+    "Population\n(2024)": "84,552,242"
+  },
+  {
+    "#": 20,
+    "Country (or dependency)": "Thailand",
+    "Population\n(2024)": "71,668,011"
+  },
+  {
+    "#": 21,
+    "Country (or dependency)": "United Kingdom",
+    "Population\n(2024)": "69,138,192"
+  },
+  {
+    "#": 22,
+    "Country (or dependency)": "Tanzania",
+    "Population\n(2024)": "68,560,157"
+  },
+  {
+    "#": 23,
+    "Country (or dependency)": "France",
+    "Population\n(2024)": "66,548,530"
+  },
+  {
+    "#": 24,
+    "Country (or dependency)": "South Africa",
+    "Population\n(2024)": "64,007,187"
+  },
+  {
+    "#": 25,
+    "Country (or dependency)": "Italy",
+    "Population\n(2024)": "59,342,867"
+  },
+  {
+    "#": 26,
+    "Country (or dependency)": "Kenya",
+    "Population\n(2024)": "56,432,944"
+  },
+  {
+    "#": 27,
+    "Country (or dependency)": "Myanmar",
+    "Population\n(2024)": "54,500,091"
+  },
+  {
+    "#": 28,
+    "Country (or dependency)": "Colombia",
+    "Population\n(2024)": "52,886,363"
+  },
+  {
+    "#": 29,
+    "Country (or dependency)": "South Korea",
+    "Population\n(2024)": "51,717,590"
+  },
+  {
+    "#": 30,
+    "Country (or dependency)": "Sudan",
+    "Population\n(2024)": "50,448,963"
+  },
+  {
+    "#": 31,
+    "Country (or dependency)": "Uganda",
+    "Population\n(2024)": "50,015,092"
+  },
+  {
+    "#": 32,
+    "Country (or dependency)": "Spain",
+    "Population\n(2024)": "47,910,526"
+  },
+  {
+    "#": 33,
+    "Country (or dependency)": "Algeria",
+    "Population\n(2024)": "46,814,308"
+  },
+  {
+    "#": 34,
+    "Country (or dependency)": "Iraq",
+    "Population\n(2024)": "46,042,015"
+  },
+  {
+    "#": 35,
+    "Country (or dependency)": "Argentina",
+    "Population\n(2024)": "45,696,159"
+  },
+  {
+    "#": 36,
+    "Country (or dependency)": "Afghanistan",
+    "Population\n(2024)": "42,647,492"
+  },
+  {
+    "#": 37,
+    "Country (or dependency)": "Yemen",
+    "Population\n(2024)": "40,583,164"
+  },
+  {
+    "#": 38,
+    "Country (or dependency)": "Canada",
+    "Population\n(2024)": "39,742,430"
+  },
+  {
+    "#": 39,
+    "Country (or dependency)": "Poland",
+    "Population\n(2024)": "38,539,201"
+  },
+  {
+    "#": 40,
+    "Country (or dependency)": "Morocco",
+    "Population\n(2024)": "38,081,173"
+  },
+  {
+    "#": 41,
+    "Country (or dependency)": "Angola",
+    "Population\n(2024)": "37,885,849"
+  },
+  {
+    "#": 42,
+    "Country (or dependency)": "Ukraine",
+    "Population\n(2024)": "37,860,221"
+  },
+  {
+    "#": 43,
+    "Country (or dependency)": "Uzbekistan",
+    "Population\n(2024)": "36,361,859"
+  },
+  {
+    "#": 44,
+    "Country (or dependency)": "Malaysia",
+    "Population\n(2024)": "35,557,673"
+  },
+  {
+    "#": 45,
+    "Country (or dependency)": "Mozambique",
+    "Population\n(2024)": "34,631,766"
+  },
+  {
+    "#": 46,
+    "Country (or dependency)": "Ghana",
+    "Population\n(2024)": "34,427,414"
+  },
+  {
+    "#": 47,
+    "Country (or dependency)": "Peru",
+    "Population\n(2024)": "34,217,848"
+  },
+  {
+    "#": 48,
+    "Country (or dependency)": "Saudi Arabia",
+    "Population\n(2024)": "33,962,757"
+  },
+  {
+    "#": 49,
+    "Country (or dependency)": "Madagascar",
+    "Population\n(2024)": "31,964,956"
+  },
+  {
+    "#": 50,
+    "Country (or dependency)": "Côte d'Ivoire",
+    "Population\n(2024)": "31,934,230"
+  },
+  {
+    "#": 51,
+    "Country (or dependency)": "Nepal",
+    "Population\n(2024)": "29,651,054"
+  },
+  {
+    "#": 52,
+    "Country (or dependency)": "Cameroon",
+    "Population\n(2024)": "29,123,744"
+  },
+  {
+    "#": 53,
+    "Country (or dependency)": "Venezuela",
+    "Population\n(2024)": "28,405,543"
+  },
+  {
+    "#": 54,
+    "Country (or dependency)": "Niger",
+    "Population\n(2024)": "27,032,412"
+  },
+  {
+    "#": 55,
+    "Country (or dependency)": "Australia",
+    "Population\n(2024)": "26,713,205"
+  },
+  {
+    "#": 56,
+    "Country (or dependency)": "North Korea",
+    "Population\n(2024)": "26,498,823"
+  },
+  {
+    "#": 57,
+    "Country (or dependency)": "Syria",
+    "Population\n(2024)": "24,672,760"
+  },
+  {
+    "#": 58,
+    "Country (or dependency)": "Mali",
+    "Population\n(2024)": "24,478,595"
+  },
+  {
+    "#": 59,
+    "Country (or dependency)": "Burkina Faso",
+    "Population\n(2024)": "23,548,781"
+  },
+  {
+    "#": 60,
+    "Country (or dependency)": "Taiwan",
+    "Population\n(2024)": "23,213,962"
+  },
+  {
+    "#": 61,
+    "Country (or dependency)": "Sri Lanka",
+    "Population\n(2024)": "23,103,565"
+  },
+  {
+    "#": 62,
+    "Country (or dependency)": "Malawi",
+    "Population\n(2024)": "21,655,286"
+  },
+  {
+    "#": 63,
+    "Country (or dependency)": "Zambia",
+    "Population\n(2024)": "21,314,956"
+  },
+  {
+    "#": 64,
+    "Country (or dependency)": "Kazakhstan",
+    "Population\n(2024)": "20,592,571"
+  },
+  {
+    "#": 65,
+    "Country (or dependency)": "Chad",
+    "Population\n(2024)": "20,299,123"
+  },
+  {
+    "#": 66,
+    "Country (or dependency)": "Chile",
+    "Population\n(2024)": "19,764,771"
+  },
+  {
+    "#": 67,
+    "Country (or dependency)": "Romania",
+    "Population\n(2024)": "19,015,088"
+  },
+  {
+    "#": 68,
+    "Country (or dependency)": "Somalia",
+    "Population\n(2024)": "19,009,151"
+  },
+  {
+    "#": 69,
+    "Country (or dependency)": "Senegal",
+    "Population\n(2024)": "18,501,984"
+  },
+  {
+    "#": 70,
+    "Country (or dependency)": "Guatemala",
+    "Population\n(2024)": "18,406,359"
+  },
+  {
+    "#": 71,
+    "Country (or dependency)": "Netherlands",
+    "Population\n(2024)": "18,228,742"
+  },
+  {
+    "#": 72,
+    "Country (or dependency)": "Ecuador",
+    "Population\n(2024)": "18,135,478"
+  },
+  {
+    "#": 73,
+    "Country (or dependency)": "Cambodia",
+    "Population\n(2024)": "17,638,801"
+  },
+  {
+    "#": 74,
+    "Country (or dependency)": "Zimbabwe",
+    "Population\n(2024)": "16,634,373"
+  },
+  {
+    "#": 75,
+    "Country (or dependency)": "Guinea",
+    "Population\n(2024)": "14,754,785"
+  },
+  {
+    "#": 76,
+    "Country (or dependency)": "Benin",
+    "Population\n(2024)": "14,462,724"
+  },
+  {
+    "#": 77,
+    "Country (or dependency)": "Rwanda",
+    "Population\n(2024)": "14,256,567"
+  },
+  {
+    "#": 78,
+    "Country (or dependency)": "Burundi",
+    "Population\n(2024)": "14,047,786"
+  },
+  {
+    "#": 79,
+    "Country (or dependency)": "Bolivia",
+    "Population\n(2024)": "12,413,315"
+  },
+  {
+    "#": 80,
+    "Country (or dependency)": "Tunisia",
+    "Population\n(2024)": "12,277,109"
+  },
+  {
+    "#": 81,
+    "Country (or dependency)": "South Sudan",
+    "Population\n(2024)": "11,943,408"
+  },
+  {
+    "#": 82,
+    "Country (or dependency)": "Haiti",
+    "Population\n(2024)": "11,772,557"
+  },
+  {
+    "#": 83,
+    "Country (or dependency)": "Belgium",
+    "Population\n(2024)": "11,738,763"
+  },
+  {
+    "#": 84,
+    "Country (or dependency)": "Jordan",
+    "Population\n(2024)": "11,552,876"
+  },
+  {
+    "#": 85,
+    "Country (or dependency)": "Dominican Republic",
+    "Population\n(2024)": "11,427,557"
+  },
+  {
+    "#": 86,
+    "Country (or dependency)": "United Arab Emirates",
+    "Population\n(2024)": "11,027,129"
+  },
+  {
+    "#": 87,
+    "Country (or dependency)": "Cuba",
+    "Population\n(2024)": "10,979,783"
+  },
+  {
+    "#": 88,
+    "Country (or dependency)": "Honduras",
+    "Population\n(2024)": "10,825,703"
+  },
+  {
+    "#": 89,
+    "Country (or dependency)": "Czech Republic (Czechia)",
+    "Population\n(2024)": "10,735,859"
+  },
+  {
+    "#": 90,
+    "Country (or dependency)": "Sweden",
+    "Population\n(2024)": "10,606,999"
+  },
+  {
+    "#": 91,
+    "Country (or dependency)": "Tajikistan",
+    "Population\n(2024)": "10,590,927"
+  },
+  {
+    "#": 92,
+    "Country (or dependency)": "Papua New Guinea",
+    "Population\n(2024)": "10,576,502"
+  },
+  {
+    "#": 93,
+    "Country (or dependency)": "Portugal",
+    "Population\n(2024)": "10,425,292"
+  },
+  {
+    "#": 94,
+    "Country (or dependency)": "Azerbaijan",
+    "Population\n(2024)": "10,336,577"
+  },
+  {
+    "#": 95,
+    "Country (or dependency)": "Greece",
+    "Population\n(2024)": "10,047,817"
+  },
+  {
+    "#": 96,
+    "Country (or dependency)": "Hungary",
+    "Population\n(2024)": "9,676,135"
+  },
+  {
+    "#": 97,
+    "Country (or dependency)": "Togo",
+    "Population\n(2024)": "9,515,236"
+  },
+  {
+    "#": 98,
+    "Country (or dependency)": "Israel",
+    "Population\n(2024)": "9,387,021"
+  },
+  {
+    "#": 99,
+    "Country (or dependency)": "Austria",
+    "Population\n(2024)": "9,120,813"
+  },
+  {
+    "#": 100,
+    "Country (or dependency)": "Belarus",
+    "Population\n(2024)": "9,056,696"
+  },
+  {
+    "#": 101,
+    "Country (or dependency)": "Switzerland",
+    "Population\n(2024)": "8,921,981"
+  },
+  {
+    "#": 102,
+    "Country (or dependency)": "Sierra Leone",
+    "Population\n(2024)": "8,642,022"
+  },
+  {
+    "#": 103,
+    "Country (or dependency)": "Laos",
+    "Population\n(2024)": "7,769,819"
+  },
+  {
+    "#": 104,
+    "Country (or dependency)": "Turkmenistan",
+    "Population\n(2024)": "7,494,498"
+  },
+  {
+    "#": 105,
+    "Country (or dependency)": "Hong Kong",
+    "Population\n(2024)": "7,414,909"
+  },
+  {
+    "#": 106,
+    "Country (or dependency)": "Libya",
+    "Population\n(2024)": "7,381,023"
+  },
+  {
+    "#": 107,
+    "Country (or dependency)": "Kyrgyzstan",
+    "Population\n(2024)": "7,186,009"
+  },
+  {
+    "#": 108,
+    "Country (or dependency)": "Paraguay",
+    "Population\n(2024)": "6,929,153"
+  },
+  {
+    "#": 109,
+    "Country (or dependency)": "Nicaragua",
+    "Population\n(2024)": "6,916,140"
+  },
+  {
+    "#": 110,
+    "Country (or dependency)": "Bulgaria",
+    "Population\n(2024)": "6,757,689"
+  },
+  {
+    "#": 111,
+    "Country (or dependency)": "Serbia",
+    "Population\n(2024)": "6,736,216"
+  },
+  {
+    "#": 112,
+    "Country (or dependency)": "El Salvador",
+    "Population\n(2024)": "6,338,193"
+  },
+  {
+    "#": 113,
+    "Country (or dependency)": "Congo",
+    "Population\n(2024)": "6,332,961"
+  },
+  {
+    "#": 114,
+    "Country (or dependency)": "Denmark",
+    "Population\n(2024)": "5,977,412"
+  },
+  {
+    "#": 115,
+    "Country (or dependency)": "Singapore",
+    "Population\n(2024)": "5,832,387"
+  },
+  {
+    "#": 116,
+    "Country (or dependency)": "Lebanon",
+    "Population\n(2024)": "5,805,962"
+  },
+  {
+    "#": 117,
+    "Country (or dependency)": "Finland",
+    "Population\n(2024)": "5,617,310"
+  },
+  {
+    "#": 118,
+    "Country (or dependency)": "Liberia",
+    "Population\n(2024)": "5,612,817"
+  },
+  {
+    "#": 119,
+    "Country (or dependency)": "Norway",
+    "Population\n(2024)": "5,576,660"
+  },
+  {
+    "#": 120,
+    "Country (or dependency)": "Slovakia",
+    "Population\n(2024)": "5,506,760"
+  },
+  {
+    "#": 121,
+    "Country (or dependency)": "State of Palestine",
+    "Population\n(2024)": "5,495,443"
+  },
+  {
+    "#": 122,
+    "Country (or dependency)": "Central African Republic",
+    "Population\n(2024)": "5,330,690"
+  },
+  {
+    "#": 123,
+    "Country (or dependency)": "Oman",
+    "Population\n(2024)": "5,281,538"
+  },
+  {
+    "#": 124,
+    "Country (or dependency)": "Ireland",
+    "Population\n(2024)": "5,255,017"
+  },
+  {
+    "#": 125,
+    "Country (or dependency)": "New Zealand",
+    "Population\n(2024)": "5,213,944"
+  },
+  {
+    "#": 126,
+    "Country (or dependency)": "Mauritania",
+    "Population\n(2024)": "5,169,395"
+  },
+  {
+    "#": 127,
+    "Country (or dependency)": "Costa Rica",
+    "Population\n(2024)": "5,129,910"
+  },
+  {
+    "#": 128,
+    "Country (or dependency)": "Kuwait",
+    "Population\n(2024)": "4,934,507"
+  },
+  {
+    "#": 129,
+    "Country (or dependency)": "Panama",
+    "Population\n(2024)": "4,515,577"
+  },
+  {
+    "#": 130,
+    "Country (or dependency)": "Croatia",
+    "Population\n(2024)": "3,875,325"
+  },
+  {
+    "#": 131,
+    "Country (or dependency)": "Georgia",
+    "Population\n(2024)": "3,807,670"
+  },
+  {
+    "#": 132,
+    "Country (or dependency)": "Eritrea",
+    "Population\n(2024)": "3,535,603"
+  },
+  {
+    "#": 133,
+    "Country (or dependency)": "Mongolia",
+    "Population\n(2024)": "3,475,540"
+  },
+  {
+    "#": 134,
+    "Country (or dependency)": "Uruguay",
+    "Population\n(2024)": "3,386,588"
+  },
+  {
+    "#": 135,
+    "Country (or dependency)": "Puerto Rico",
+    "Population\n(2024)": "3,242,204"
+  },
+  {
+    "#": 136,
+    "Country (or dependency)": "Bosnia and Herzegovina",
+    "Population\n(2024)": "3,164,253"
+  },
+  {
+    "#": 137,
+    "Country (or dependency)": "Qatar",
+    "Population\n(2024)": "3,048,423"
+  },
+  {
+    "#": 138,
+    "Country (or dependency)": "Moldova",
+    "Population\n(2024)": "3,034,961"
+  },
+  {
+    "#": 139,
+    "Country (or dependency)": "Namibia",
+    "Population\n(2024)": "3,030,131"
+  },
+  {
+    "#": 140,
+    "Country (or dependency)": "Armenia",
+    "Population\n(2024)": "2,973,840"
+  },
+  {
+    "#": 141,
+    "Country (or dependency)": "Lithuania",
+    "Population\n(2024)": "2,859,110"
+  },
+  {
+    "#": 142,
+    "Country (or dependency)": "Jamaica",
+    "Population\n(2024)": "2,839,175"
+  },
+  {
+    "#": 143,
+    "Country (or dependency)": "Albania",
+    "Population\n(2024)": "2,791,765"
+  },
+  {
+    "#": 144,
+    "Country (or dependency)": "Gambia",
+    "Population\n(2024)": "2,759,988"
+  },
+  {
+    "#": 145,
+    "Country (or dependency)": "Gabon",
+    "Population\n(2024)": "2,538,952"
+  },
+  {
+    "#": 146,
+    "Country (or dependency)": "Botswana",
+    "Population\n(2024)": "2,521,139"
+  },
+  {
+    "#": 147,
+    "Country (or dependency)": "Lesotho",
+    "Population\n(2024)": "2,337,423"
+  },
+  {
+    "#": 148,
+    "Country (or dependency)": "Guinea-Bissau",
+    "Population\n(2024)": "2,201,352"
+  },
+  {
+    "#": 149,
+    "Country (or dependency)": "Slovenia",
+    "Population\n(2024)": "2,118,697"
+  },
+  {
+    "#": 150,
+    "Country (or dependency)": "Equatorial Guinea",
+    "Population\n(2024)": "1,892,516"
+  },
+  {
+    "#": 151,
+    "Country (or dependency)": "Latvia",
+    "Population\n(2024)": "1,871,871"
+  },
+  {
+    "#": 152,
+    "Country (or dependency)": "North Macedonia",
+    "Population\n(2024)": "1,823,009"
+  },
+  {
+    "#": 153,
+    "Country (or dependency)": "Bahrain",
+    "Population\n(2024)": "1,607,049"
+  },
+  {
+    "#": 154,
+    "Country (or dependency)": "Trinidad and Tobago",
+    "Population\n(2024)": "1,507,782"
+  },
+  {
+    "#": 155,
+    "Country (or dependency)": "Timor-Leste",
+    "Population\n(2024)": "1,400,638"
+  },
+  {
+    "#": 156,
+    "Country (or dependency)": "Estonia",
+    "Population\n(2024)": "1,360,546"
+  },
+  {
+    "#": 157,
+    "Country (or dependency)": "Cyprus",
+    "Population\n(2024)": "1,358,282"
+  },
+  {
+    "#": 158,
+    "Country (or dependency)": "Mauritius",
+    "Population\n(2024)": "1,271,169"
+  },
+  {
+    "#": 159,
+    "Country (or dependency)": "Eswatini",
+    "Population\n(2024)": "1,242,822"
+  },
+  {
+    "#": 160,
+    "Country (or dependency)": "Djibouti",
+    "Population\n(2024)": "1,168,722"
+  },
+  {
+    "#": 161,
+    "Country (or dependency)": "Fiji",
+    "Population\n(2024)": "928,784"
+  },
+  {
+    "#": 162,
+    "Country (or dependency)": "Réunion",
+    "Population\n(2024)": "878,591"
+  },
+  {
+    "#": 163,
+    "Country (or dependency)": "Comoros",
+    "Population\n(2024)": "866,628"
+  },
+  {
+    "#": 164,
+    "Country (or dependency)": "Guyana",
+    "Population\n(2024)": "831,087"
+  },
+  {
+    "#": 165,
+    "Country (or dependency)": "Solomon Islands",
+    "Population\n(2024)": "819,198"
+  },
+  {
+    "#": 166,
+    "Country (or dependency)": "Bhutan",
+    "Population\n(2024)": "791,524"
+  },
+  {
+    "#": 167,
+    "Country (or dependency)": "Macao",
+    "Population\n(2024)": "720,262"
+  },
+  {
+    "#": 168,
+    "Country (or dependency)": "Luxembourg",
+    "Population\n(2024)": "673,036"
+  },
+  {
+    "#": 169,
+    "Country (or dependency)": "Montenegro",
+    "Population\n(2024)": "638,479"
+  },
+  {
+    "#": 170,
+    "Country (or dependency)": "Suriname",
+    "Population\n(2024)": "634,431"
+  },
+  {
+    "#": 171,
+    "Country (or dependency)": "Western Sahara",
+    "Population\n(2024)": "590,506"
+  },
+  {
+    "#": 172,
+    "Country (or dependency)": "Malta",
+    "Population\n(2024)": "539,607"
+  },
+  {
+    "#": 173,
+    "Country (or dependency)": "Maldives",
+    "Population\n(2024)": "527,799"
+  },
+  {
+    "#": 174,
+    "Country (or dependency)": "Micronesia",
+    "Population\n(2024)": "526,923"
+  },
+  {
+    "#": 175,
+    "Country (or dependency)": "Cabo Verde",
+    "Population\n(2024)": "524,877"
+  },
+  {
+    "#": 176,
+    "Country (or dependency)": "Brunei",
+    "Population\n(2024)": "462,721"
+  },
+  {
+    "#": 177,
+    "Country (or dependency)": "Belize",
+    "Population\n(2024)": "417,072"
+  },
+  {
+    "#": 178,
+    "Country (or dependency)": "Bahamas",
+    "Population\n(2024)": "401,283"
+  },
+  {
+    "#": 179,
+    "Country (or dependency)": "Iceland",
+    "Population\n(2024)": "393,396"
+  },
+  {
+    "#": 180,
+    "Country (or dependency)": "Guadeloupe",
+    "Population\n(2024)": "375,106"
+  },
+  {
+    "#": 181,
+    "Country (or dependency)": "Martinique",
+    "Population\n(2024)": "343,195"
+  },
+  {
+    "#": 182,
+    "Country (or dependency)": "Vanuatu",
+    "Population\n(2024)": "327,777"
+  },
+  {
+    "#": 183,
+    "Country (or dependency)": "Mayotte",
+    "Population\n(2024)": "326,505"
+  },
+  {
+    "#": 184,
+    "Country (or dependency)": "French Guiana",
+    "Population\n(2024)": "308,522"
+  },
+  {
+    "#": 185,
+    "Country (or dependency)": "New Caledonia",
+    "Population\n(2024)": "292,639"
+  },
+  {
+    "#": 186,
+    "Country (or dependency)": "Barbados",
+    "Population\n(2024)": "282,467"
+  },
+  {
+    "#": 187,
+    "Country (or dependency)": "French Polynesia",
+    "Population\n(2024)": "281,807"
+  },
+  {
+    "#": 188,
+    "Country (or dependency)": "Sao Tome & Principe",
+    "Population\n(2024)": "235,536"
+  },
+  {
+    "#": 189,
+    "Country (or dependency)": "Samoa",
+    "Population\n(2024)": "218,019"
+  },
+  {
+    "#": 190,
+    "Country (or dependency)": "Curaçao",
+    "Population\n(2024)": "185,482"
+  },
+  {
+    "#": 191,
+    "Country (or dependency)": "Saint Lucia",
+    "Population\n(2024)": "179,744"
+  },
+  {
+    "#": 192,
+    "Country (or dependency)": "Guam",
+    "Population\n(2024)": "167,777"
+  },
+  {
+    "#": 193,
+    "Country (or dependency)": "Kiribati",
+    "Population\n(2024)": "134,518"
+  },
+  {
+    "#": 194,
+    "Country (or dependency)": "Seychelles",
+    "Population\n(2024)": "130,418"
+  },
+  {
+    "#": 195,
+    "Country (or dependency)": "Grenada",
+    "Population\n(2024)": "117,207"
+  },
+  {
+    "#": 196,
+    "Country (or dependency)": "Aruba",
+    "Population\n(2024)": "108,066"
+  },
+  {
+    "#": 197,
+    "Country (or dependency)": "Tonga",
+    "Population\n(2024)": "104,175"
+  },
+  {
+    "#": 198,
+    "Country (or dependency)": "St. Vincent & Grenadines",
+    "Population\n(2024)": "100,616"
+  },
+  {
+    "#": 199,
+    "Country (or dependency)": "Antigua and Barbuda",
+    "Population\n(2024)": "93,772"
+  },
+  {
+    "#": 200,
+    "Country (or dependency)": "U.S. Virgin Islands",
+    "Population\n(2024)": "84,905"
+  },
+  {
+    "#": 201,
+    "Country (or dependency)": "Isle of Man",
+    "Population\n(2024)": "84,160"
+  },
+  {
+    "#": 202,
+    "Country (or dependency)": "Andorra",
+    "Population\n(2024)": "81,938"
+  },
+  {
+    "#": 203,
+    "Country (or dependency)": "Cayman Islands",
+    "Population\n(2024)": "74,457"
+  },
+  {
+    "#": 204,
+    "Country (or dependency)": "Dominica",
+    "Population\n(2024)": "66,205"
+  },
+  {
+    "#": 205,
+    "Country (or dependency)": "Bermuda",
+    "Population\n(2024)": "64,636"
+  },
+  {
+    "#": 206,
+    "Country (or dependency)": "Greenland",
+    "Population\n(2024)": "55,840"
+  },
+  {
+    "#": 207,
+    "Country (or dependency)": "Faeroe Islands",
+    "Population\n(2024)": "55,400"
+  },
+  {
+    "#": 208,
+    "Country (or dependency)": "Saint Kitts & Nevis",
+    "Population\n(2024)": "46,843"
+  },
+  {
+    "#": 209,
+    "Country (or dependency)": "American Samoa",
+    "Population\n(2024)": "46,765"
+  },
+  {
+    "#": 210,
+    "Country (or dependency)": "Turks and Caicos",
+    "Population\n(2024)": "46,535"
+  },
+  {
+    "#": 211,
+    "Country (or dependency)": "Northern Mariana Islands",
+    "Population\n(2024)": "44,278"
+  },
+  {
+    "#": 212,
+    "Country (or dependency)": "Sint Maarten",
+    "Population\n(2024)": "43,350"
+  },
+  {
+    "#": 213,
+    "Country (or dependency)": "Liechtenstein",
+    "Population\n(2024)": "39,870"
+  },
+  {
+    "#": 214,
+    "Country (or dependency)": "British Virgin Islands",
+    "Population\n(2024)": "39,471"
+  },
+  {
+    "#": 215,
+    "Country (or dependency)": "Gibraltar",
+    "Population\n(2024)": "39,329"
+  },
+  {
+    "#": 216,
+    "Country (or dependency)": "Monaco",
+    "Population\n(2024)": "38,631"
+  },
+  {
+    "#": 217,
+    "Country (or dependency)": "Marshall Islands",
+    "Population\n(2024)": "37,548"
+  },
+  {
+    "#": 218,
+    "Country (or dependency)": "San Marino",
+    "Population\n(2024)": "33,581"
+  },
+  {
+    "#": 219,
+    "Country (or dependency)": "Caribbean Netherlands",
+    "Population\n(2024)": "30,675"
+  },
+  {
+    "#": 220,
+    "Country (or dependency)": "Saint Martin",
+    "Population\n(2024)": "26,129"
+  },
+  {
+    "#": 221,
+    "Country (or dependency)": "Palau",
+    "Population\n(2024)": "17,695"
+  },
+  {
+    "#": 222,
+    "Country (or dependency)": "Anguilla",
+    "Population\n(2024)": "14,598"
+  },
+  {
+    "#": 223,
+    "Country (or dependency)": "Cook Islands",
+    "Population\n(2024)": "13,729"
+  },
+  {
+    "#": 224,
+    "Country (or dependency)": "Nauru",
+    "Population\n(2024)": "11,947"
+  },
+  {
+    "#": 225,
+    "Country (or dependency)": "Wallis & Futuna",
+    "Population\n(2024)": "11,277"
+  },
+  {
+    "#": 226,
+    "Country (or dependency)": "Saint Barthelemy",
+    "Population\n(2024)": "11,258"
+  },
+  {
+    "#": 227,
+    "Country (or dependency)": "Tuvalu",
+    "Population\n(2024)": "9,646"
+  },
+  {
+    "#": 228,
+    "Country (or dependency)": "Saint Pierre & Miquelon",
+    "Population\n(2024)": "5,628"
+  },
+  {
+    "#": 229,
+    "Country (or dependency)": "Saint Helena",
+    "Population\n(2024)": "5,237"
+  },
+  {
+    "#": 230,
+    "Country (or dependency)": "Montserrat",
+    "Population\n(2024)": "4,389"
+  },
+  {
+    "#": 231,
+    "Country (or dependency)": "Falkland Islands",
+    "Population\n(2024)": "3,470"
+  },
+  {
+    "#": 232,
+    "Country (or dependency)": "Tokelau",
+    "Population\n(2024)": "2,506"
+  },
+  {
+    "#": 233,
+    "Country (or dependency)": "Niue",
+    "Population\n(2024)": "1,819"
+  },
+  {
+    "#": 234,
+    "Country (or dependency)": "Holy See",
+    "Population\n(2024)": 496
+  }
+]
