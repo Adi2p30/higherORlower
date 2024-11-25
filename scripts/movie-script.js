@@ -38,8 +38,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
   async function setBackgroundImages() {
     try {
-      const movie1Image = await getImage(currentMovie1.title);
-      const movie2Image = await getImage(currentMovie2.title);
+      const movie1Image = await getImage(currentMovie1.title + "wallpaper");
+      const movie2Image = await getImage(currentMovie2.title + "wallpaper");
 
       movie1.style.setProperty(
         "--bg-image",

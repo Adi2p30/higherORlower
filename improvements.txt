@@ -1,0 +1,7 @@
+1. Make sliding animation smoother
+2. Make population and companhy 
+3. Make it look better 
+
+FUTURE
+1. Make it update in real time 
+2. Add make your own properly 
